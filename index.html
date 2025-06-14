@@ -1,0 +1,251 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>German Verb Master</title>
+  <link rel="stylesheet" href="styles.css" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" />
+</head>
+<body>
+  <div class="app-container">
+    <!-- Header -->
+    <header class="app-header">
+      <button onclick="backToMain()" class="back-button hidden">
+        <i class="fas fa-chevron-left"></i>
+      </button>
+      <h1 class="app-title">German Verb Master</h1>
+      <div class="header-actions">
+        <button id="theme-toggle" class="icon-button" aria-label="Toggle theme">
+          <i class="fas fa-moon"></i>
+        </button>
+        <button id="stats-button" class="icon-button" aria-label="Show stats">
+          <i class="fas fa-trophy"></i>
+          <span class="badge" id="badge-count">0</span>
+        </button>
+      </div>
+    </header>
+
+    <!-- Main Grid Layout -->
+    <main id="main-grid" class="main-grid">
+      <!-- Practice Card -->
+      <div class="grid-card" onclick="showPracticeSection()">
+        <div class="card-icon" style="background-color: #FF2D55;">
+          <i class="fas fa-pen-fancy"></i>
+        </div>
+        <h2>Practice</h2>
+        <p>Test your verb knowledge</p>
+        <div class="card-footer">
+          <span id="practice-stats">0 verbs</span>
+        </div>
+      </div>
+
+      <!-- Flashcards Card -->
+      <div class="grid-card" onclick="showFlashcardSection()">
+        <div class="card-icon" style="background-color: #5856D6;">
+          <i class="fas fa-layer-group"></i>
+        </div>
+        <h2>Flashcards</h2>
+        <p>Quick verb review</p>
+        <div class="card-footer">
+          <span id="flashcard-stats">0 cards</span>
+        </div>
+      </div>
+
+      <!-- Verb List Card -->
+      <div class="grid-card" onclick="showVerbList()">
+        <div class="card-icon" style="background-color: #FF9500;">
+          <i class="fas fa-list"></i>
+        </div>
+        <h2>Verb List</h2>
+        <p>Browse all verbs</p>
+        <div class="card-footer">
+          <span id="verb-list-stats">0 verbs</span>
+        </div>
+      </div>
+
+      <!-- Add Verb Card -->
+      <div class="grid-card" onclick="showAddVerbForm()">
+        <div class="card-icon" style="background-color: #34C759;">
+          <i class="fas fa-plus-circle"></i>
+        </div>
+        <h2>Add Verb</h2>
+        <p>Contribute new verbs</p>
+      </div>
+    </main>
+
+    <!-- Practice Section -->
+    <section id="practice-section" class="hidden">
+      <div class="section-content">
+        <div class="practice-header">
+          <h2>Practice Verbs</h2>
+          <div class="practice-actions">
+            <div id="practice-mode-toggle" class="toggle-button" onclick="togglePracticeMode(event)">
+              <i class="fas fa-random"></i> Shuffle
+            </div>
+            <div class="search-box">
+              <input type="text" id="practice-search" placeholder="Search verbs..." />
+              <i class="fas fa-search"></i>
+            </div>
+          </div>
+        </div>
+        <div class="day-selector">
+          <select id="practice-day" onchange="loadPracticeVerbs(this.value)">
+            <option value="1">Day 1</option>
+            <option value="2">Day 2</option>
+            <option value="3">Day 3</option>
+            <option value="4">Day 4</option>
+            <option value="5">Day 5</option>
+            <option value="6">Day 6</option>
+          </select>
+        </div>
+        <div id="practice-container"></div>
+      </div>
+    </section>
+
+    <!-- Flashcard Section -->
+    <section id="flashcard-section" class="hidden">
+      <div class="section-content">
+        <div class="flashcard-header">
+          <h2>Flashcards</h2>
+          <div class="flashcard-actions">
+            <div class="flashcard-day-selector">
+              <select id="flashcard-day" onchange="handleFlashcardDayChange()">
+                <option value="1">Day 1</option>
+                <option value="2">Day 2</option>
+                <option value="3">Day 3</option>
+                <option value="4">Day 4</option>
+                <option value="5">Day 5</option>
+                <option value="6">Day 6</option>
+              </select>
+            </div>
+            <div class="search-box">
+              <input type="text" id="flashcard-search" placeholder="Search verbs..." />
+              <i class="fas fa-search"></i>
+            </div>
+          </div>
+        </div>
+        <div class="flashcard-container">
+          <div class="flashcard" id="flashcard" onclick="flipFlashcard()">
+            <div class="front" id="flashcard-front">
+              <div class="flashcard-content">Tap to start</div>
+            </div>
+            <div class="back" id="flashcard-back">
+              <div class="flashcard-content">Select a day</div>
+            </div>
+          </div>
+          <div class="flashcard-progress" id="flashcard-progress">0/0</div>
+          <div class="flashcard-controls">
+            <button onclick="prevFlashcard()"><i class="fas fa-chevron-left"></i></button>
+            <button onclick="markAsKnown()"><i class="fas fa-check"></i></button>
+            <button onclick="nextFlashcard()"><i class="fas fa-chevron-right"></i></button>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Verb List Section -->
+    <section id="verb-list-section" class="hidden">
+      <div class="section-content">
+        <div class="verb-list-header">
+          <h2>Verb List</h2>
+          <div class="verb-list-actions">
+            <div class="day-selector">
+              <select id="verb-list-day" onchange="selectDay(this.value)">
+                <option value="1">Day 1</option>
+                <option value="2">Day 2</option>
+                <option value="3">Day 3</option>
+                <option value="4">Day 4</option>
+                <option value="5">Day 5</option>
+                <option value="6">Day 6</option>
+              </select>
+            </div>
+            <div class="search-box">
+              <input type="text" id="verb-list-search" placeholder="Search verbs..." />
+              <i class="fas fa-search"></i>
+            </div>
+          </div>
+        </div>
+        <div class="verb-filter">
+          <div class="filter-option active" data-filter="all">All</div>
+          <div class="filter-option" data-filter="akk">Akkusativ</div>
+          <div class="filter-option" data-filter="dat">Dativ</div>
+          <div class="filter-option" data-filter="both">Both</div>
+        </div>
+        <div class="verb-list-container">
+          <ul id="verb-list" class="verb-list"></ul>
+        </div>
+        <div class="verb-list-footer">
+          <button id="select-all-button" onclick="selectAllVerbs()">
+            <i class="far fa-square"></i> Select All
+          </button>
+          <button onclick="startPractice()" class="primary-button">
+            <i class="fas fa-play"></i> Practice Selected
+          </button>
+        </div>
+      </div>
+    </section>
+
+    <!-- Add Verb Section -->
+    <section id="add-verb-section" class="hidden">
+      <div class="section-content">
+        <h2>Add New Verb</h2>
+        <form id="add-verb-form">
+          <div class="form-group">
+            <label for="new-verb">Verb</label>
+            <input type="text" id="new-verb" placeholder="e.g., lernen" required />
+          </div>
+          <div class="form-group">
+            <label for="new-structure">Structure</label>
+            <input type="text" id="new-structure" placeholder="e.g., etw (Akk) lernen" required />
+          </div>
+          <div class="form-group">
+            <label for="new-day">Day</label>
+            <select id="new-day" required>
+              <option value="1">Day 1</option>
+              <option value="2">Day 2</option>
+              <option value="3">Day 3</option>
+              <option value="4">Day 4</option>
+              <option value="5">Day 5</option>
+              <option value="6">Day 6</option>
+            </select>
+          </div>
+          <button type="submit" class="submit-button">
+            <i class="fas fa-plus"></i> Add Verb
+          </button>
+        </form>
+      </div>
+    </section>
+
+    <!-- Stats Modal -->
+    <div id="stats-modal" class="modal hidden">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h2>Your Progress</h2>
+          <button class="close-modal" aria-label="Close stats modal">&times;</button>
+        </div>
+        <div class="modal-body">
+          <div class="progress-overview">
+            <div class="progress-day" data-day="1">
+              <div class="day-header">Day 1</div>
+              <div class="progress-bar">
+                <div class="progress-fill"></div>
+              </div>
+              <div class="day-stats">0/0 mastered</div>
+            </div>
+            <!-- Repeat for Days 2-6 -->
+          </div>
+          <div class="achievements">
+            <h3>Your Achievements</h3>
+            <div class="badge-grid" id="badge-container">
+              <!-- Badges will be added here dynamically -->
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>

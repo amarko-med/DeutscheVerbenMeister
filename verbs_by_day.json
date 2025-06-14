@@ -1,0 +1,1353 @@
+ { "1" : [
+    {
+      "verb": "beantworten",
+      "structure": "jdn/etw (Akk) beantworten"
+    },
+    {
+      "verb": "gestalten",
+      "structure": "etw (Akk) gestalten"
+    },
+    {
+      "verb": "zeigen",
+      "structure": "jdm (Dat) etw (Akk) zeigen"
+    },
+    {
+      "verb": "hoffen",
+      "structure": "auf etw (Akk) hoffen"
+    },
+    {
+      "verb": "ermöglichen",
+      "structure": "jdm (Dat) etw (Akk) ermöglichen"
+    },
+    {
+      "verb": "umziehen",
+      "structure": "an einen Ort (Akk) umziehen"
+    },
+    {
+      "verb": "begleiten",
+      "structure": "jdn (Akk) begleiten"
+    },
+    {
+      "verb": "abhängen",
+      "structure": "von jdm/etw (Dat) abhängen"
+    },
+    {
+      "verb": "zweifeln",
+      "structure": "an etw (Dat) zweifeln"
+    },
+    {
+      "verb": "Zuständig sein",
+      "structure": "für etw (Akk) zuständig sein"
+    },
+    {
+      "verb": "zwingen",
+      "structure": "jdn (Akk) zu etw (Dat) zwingen"
+    },
+    {
+      "verb": "abschließen",
+      "structure": "etw (Akk) abschließen"
+    },
+    {
+      "verb": "nachholen",
+      "structure": "etw (Akk) nachholen"
+    },
+    {
+      "verb": "bewerten",
+      "structure": "etw (Akk) bewerten"
+    },
+    {
+      "verb": "verbieten",
+      "structure": "jdm (Dat) etw (Akk) verbieten"
+    },
+    {
+      "verb": "betrachten",
+      "structure": "jdn/etw (Akk) betrachten"
+    },
+    {
+      "verb": "sitzen",
+      "structure": "auf etw (Dat) sitzen"
+    },
+    {
+      "verb": "vertrauen",
+      "structure": "jdm (Dat) vertrauen"
+    },
+    {
+      "verb": "steigen",
+      "structure": "auf etw (Akk) steigen"
+    },
+    {
+      "verb": "verwöhnen",
+      "structure": "jdn (Akk) verwöhnen"
+    },
+    {
+      "verb": "aufnehmen",
+      "structure": "jdn/etw (Akk) aufnehmen"
+    },
+    {
+      "verb": "schockieren",
+      "structure": "jdn (Akk) schockieren"
+    },
+    {
+      "verb": "untersuchen",
+      "structure": "jdn/etw (Akk) untersuchen"
+    },
+    {
+      "verb": "abbrechen",
+      "structure": "etw (Akk) abbrechen"
+    },
+    {
+      "verb": "merken",
+      "structure": "sich (Akk) etw (Akk) merken"
+    },
+    {
+      "verb": "behalten",
+      "structure": "etw (Akk) behalten"
+    },
+    {
+      "verb": "verlangen",
+      "structure": "etw (Akk) verlangen"
+    },
+    {
+      "verb": "beschäftigen",
+      "structure": "jdn (Akk) beschäftigen"
+    },
+    {
+      "verb": "beziehen",
+      "structure": "sich (Akk) auf etw (Akk) beziehen"
+    },
+    {
+      "verb": "verschieben",
+      "structure": "etw (Akk) verschieben"
+    },
+    {
+      "verb": "begegnen",
+      "structure": "jdm (Dat) begegnen"
+    },
+    {
+      "verb": "enttäuschen",
+      "structure": "jdn (Akk) enttäuschen"
+    },
+    {
+      "verb": "unterbrechen",
+      "structure": "jdn (Akk) unterbrechen"
+    },
+    {
+      "verb": "zusammenfassen",
+      "structure": "etw (Akk) zusammenfassen"
+    },
+    {
+      "verb": "zuhören",
+      "structure": "jdm (Dat) zuhören"
+    },
+    {
+      "verb": "behandeln",
+      "structure": "jdn/etw (Akk) behandeln"
+    },
+    {
+      "verb": "Besuchen",
+      "structure": "jdn/etw (Akk) besuchen"
+    },
+    {
+      "verb": "Zustimmen",
+      "structure": "jdm/etw (Dat) zustimmen"
+    },
+    {
+      "verb": "Abholen",
+      "structure": "jdn (Akk) abholen"
+    },
+    {
+      "verb": "verändern",
+      "structure": "etw (Akk) verändern"
+    },
+    {
+      "verb": "tun",
+      "structure": "etw (Akk) tun"
+    },
+    {
+      "verb": "vergleichen",
+      "structure": "etw (Akk) mit etw (Dat) vergleichen"
+    },
+    {
+      "verb": "ernähren",
+      "structure": "sich (Akk) von etw (Dat) ernähren"
+    },
+    {
+      "verb": "treffen",
+      "structure": "jdn (Akk) treffen"
+    },
+    {
+      "verb": "lachen",
+      "structure": "über jdn/etw (Akk) lachen"
+    },
+    {
+      "verb": "stören",
+      "structure": "jdn (Akk) stören"
+    },
+    {
+      "verb": "feiern",
+      "structure": "etw (Akk) feiern"
+    },
+    {
+      "verb": "reagieren",
+      "structure": "auf etw (Akk) reagieren"
+    },
+    {
+      "verb": "warten",
+      "structure": "auf jdn/etw (Akk) warten"
+    },
+    {
+      "verb": "konzentrieren",
+      "structure": "sich (Akk) auf etw (Akk) konzentrieren"
+    },
+    {
+      "verb": "feststellen",
+      "structure": "etw (Akk) feststellen"
+    },
+    {
+      "verb": "bedienen",
+      "structure": "jdn (Akk) bedienen"
+    },
+    {
+      "verb": "eröffnen",
+      "structure": "etw (Akk) eröffnen"
+    },
+    {
+      "verb": "spenden",
+      "structure": "etw (Akk) spenden"
+    }
+  ],
+  "2": [
+    {
+      "verb": "leiden",
+      "structure": "an etw (Dat) leiden"
+    },
+    {
+      "verb": "überzeugen",
+      "structure": "jdn (Akk) von etw (Dat) überzeugen"
+    },
+    {
+      "verb": "einschätzen",
+      "structure": "jdn/etw (Akk) einschätzen"
+    },
+    {
+      "verb": "entstehen",
+      "structure": "aus etw (Dat) entstehen"
+    },
+    {
+      "verb": "verfugen",
+      "structure": "etw (Akk) verfugen"
+    },
+    {
+      "verb": "übersetzen",
+      "structure": "etw (Akk) übersetzen"
+    },
+    {
+      "verb": "einladen",
+      "structure": "jdn (Akk) einladen"
+    },
+    {
+      "verb": "kaufen",
+      "structure": "etw (Akk) kaufen"
+    },
+    {
+      "verb": "trennen",
+      "structure": "etw (Akk) trennen"
+    },
+    {
+      "verb": "ausschließen",
+      "structure": "jdn (Akk) ausschließen"
+    },
+    {
+      "verb": "mitmachen",
+      "structure": "bei etw (Dat) mitmachen"
+    },
+    {
+      "verb": "klappen",
+      "structure": "mit etw (Dat) klappen"
+    },
+    {
+      "verb": "verbieten",
+      "structure": "jdm (Dat) etw (Akk) verbieten"
+    },
+    {
+      "verb": "verspäten",
+      "structure": "sich (Akk) verspäten"
+    },
+    {
+      "verb": "reden",
+      "structure": "über jdn/etw (Akk) reden"
+    },
+    {
+      "verb": "korrigieren",
+      "structure": "etw (Akk) korrigieren"
+    },
+    {
+      "verb": "träumen",
+      "structure": "von jdm/etw (Dat) träumen"
+    },
+    {
+      "verb": "verantworten",
+      "structure": "sich (Akk) für etw (Akk) verantworten"
+    },
+    {
+      "verb": "protestieren",
+      "structure": "gegen etw (Akk) protestieren"
+    },
+    {
+      "verb": "erfordern",
+      "structure": "etw (Akk) erfordern"
+    },
+    {
+      "verb": "nehmen",
+      "structure": "etw (Akk) nehmen"
+    },
+    {
+      "verb": "bekommen",
+      "structure": "etw (Akk) bekommen"
+    },
+    {
+      "verb": "kündigen",
+      "structure": "jdm (Dat) kündigen"
+    },
+    {
+      "verb": "enttäuschen",
+      "structure": "jdn (Akk) enttäuschen"
+    },
+    {
+      "verb": "gelingen",
+      "structure": "jdm (Dat) etw (Akk) gelingen"
+    },
+    {
+      "verb": "sparen",
+      "structure": "etw (Akk) sparen"
+    },
+    {
+      "verb": "verlassen",
+      "structure": "jdn/etw (Akk) verlassen"
+    },
+    {
+      "verb": "herausfordern",
+      "structure": "jdn (Akk) herausfordern"
+    },
+    {
+      "verb": "weitergeben",
+      "structure": "etw (Akk) weitergeben"
+    },
+    {
+      "verb": "bedanken",
+      "structure": "sich (Akk) bei jdm (Dat) bedanken"
+    },
+    {
+      "verb": "unterhalten",
+      "structure": "sich (Akk) mit jdm (Dat) unterhalten"
+    },
+    {
+      "verb": "handeln",
+      "structure": "mit etw (Dat) handeln"
+    },
+    {
+      "verb": "organisieren",
+      "structure": "etw (Akk) organisieren"
+    },
+    {
+      "verb": "fassen",
+      "structure": "etw (Akk) fassen"
+    },
+    {
+      "verb": "bieten",
+      "structure": "jdm (Dat) etw (Akk) bieten"
+    },
+    {
+      "verb": "vermeiden",
+      "structure": "etw (Akk) vermeiden"
+    },
+    {
+      "verb": "ausnutzen",
+      "structure": "jdn/etw (Akk) ausnutzen"
+    },
+    {
+      "verb": "genießen",
+      "structure": "etw (Akk) genießen"
+    },
+    {
+      "verb": "fordern",
+      "structure": "etw (Akk) fordern"
+    },
+    {
+      "verb": "interessieren",
+      "structure": "sich (Akk) für etw (Akk) interessieren"
+    },
+    {
+      "verb": "mitbringen",
+      "structure": "etw (Akk) mitbringen"
+    },
+    {
+      "verb": "waschen",
+      "structure": "etw (Akk) waschen"
+    },
+    {
+      "verb": "malen",
+      "structure": "etw (Akk) malen"
+    },
+    {
+      "verb": "antworten",
+      "structure": "jdm (Dat) antworten"
+    },
+    {
+      "verb": "ersetzen",
+      "structure": "jdn/etw (Akk) ersetzen"
+    },
+    {
+      "verb": "gelten",
+      "structure": "für jdn/etw (Akk) gelten"
+    },
+    {
+      "verb": "glauben",
+      "structure": "jdm (Dat) glauben"
+    },
+    {
+      "verb": "ablehnen",
+      "structure": "etw (Akk) ablehnen"
+    },
+    {
+      "verb": "prüfen",
+      "structure": "etw (Akk) prüfen"
+    },
+    {
+      "verb": "entwickeln",
+      "structure": "etw (Akk) entwickeln"
+    },
+    {
+      "verb": "beantragen",
+      "structure": "etw (Akk) beantragen"
+    },
+    {
+      "verb": "behindern",
+      "structure": "jdn (Akk) behindern"
+    },
+    {
+      "verb": "erstellen",
+      "structure": "etw (Akk) erstellen"
+    },
+    {
+      "verb": "verwirren",
+      "structure": "jdn (Akk) verwirren"
+    },
+    {
+      "verb": "amüsieren",
+      "structure": "sich (Akk) amüsieren"
+    },
+    {
+      "verb": "beinhalten",
+      "structure": "etw (Akk) beinhalten"
+    },
+    {
+      "verb": "enthalten",
+      "structure": "etw (Akk) enthalten"
+    }
+  ],
+  "3": [
+    {
+      "verb": "verhandeln",
+      "structure": "über etw (Akk) verhandeln"
+    },
+    {
+      "verb": "beeinflussen",
+      "structure": "jdn/etw (Akk) beeinflussen"
+    },
+    {
+      "verb": "rechnen",
+      "structure": "mit etw (Dat) rechnen"
+    },
+    {
+      "verb": "schauen",
+      "structure": "auf etw (Akk) schauen"
+    },
+    {
+      "verb": "befassen",
+      "structure": "sich (Akk) mit etw (Dat) befassen"
+    },
+    {
+      "verb": "rufen",
+      "structure": "jdn (Akk) rufen"
+    },
+    {
+      "verb": "reduzieren",
+      "structure": "etw (Akk) reduzieren"
+    },
+    {
+      "verb": "verdienen",
+      "structure": "etw (Akk) verdienen"
+    },
+    {
+      "verb": "ausgeben",
+      "structure": "etw (Akk) ausgeben"
+    },
+    {
+      "verb": "ankommen",
+      "structure": "an einem Ort (Dat) ankommen"
+    },
+    {
+      "verb": "sammeln",
+      "structure": "etw (Akk) sammeln"
+    },
+    {
+      "verb": "wechseln",
+      "structure": "etw (Akk) wechseln"
+    },
+    {
+      "verb": "aufwachen",
+      "structure": "aus etw (Dat) aufwachen"
+    },
+    {
+      "verb": "übrigbleiben",
+      "structure": "von etw (Dat) übrigbleiben"
+    },
+    {
+      "verb": "Sorgen machen",
+      "structure": "sich (Akk) Sorgen machen"
+    },
+    {
+      "verb": "verzichten",
+      "structure": "auf etw (Akk) verzichten"
+    },
+    {
+      "verb": "beruhigen",
+      "structure": "jdn (Akk) beruhigen"
+    },
+    {
+      "verb": "anschauen",
+      "structure": "sich (Akk) etw (Akk) anschauen"
+    },
+    {
+      "verb": "festlegen",
+      "structure": "sich (Akk) auf etw (Akk) festlegen"
+    },
+    {
+      "verb": "anbieten",
+      "structure": "jdm (Dat) etw (Akk) anbieten"
+    },
+    {
+      "verb": "annehmen",
+      "structure": "etw (Akk) annehmen"
+    },
+    {
+      "verb": "vorenthalten",
+      "structure": "jdm (Dat) etw (Akk) vorenthalten"
+    },
+    {
+      "verb": "berücksichtigen",
+      "structure": "etw (Akk) berücksichtigen"
+    },
+    {
+      "verb": "danken",
+      "structure": "jdm (Dat) danken"
+    },
+    {
+      "verb": "senden",
+      "structure": "etw (Akk) senden"
+    },
+    {
+      "verb": "fliegen",
+      "structure": "an einen Ort (Akk) fliegen"
+    },
+    {
+      "verb": "brauchen",
+      "structure": "etw (Akk) brauchen"
+    },
+    {
+      "verb": "bestrafen",
+      "structure": "jdn (Akk) bestrafen"
+    },
+    {
+      "verb": "wiegen",
+      "structure": "etw (Akk) wiegen"
+    },
+    {
+      "verb": "versorgen",
+      "structure": "jdn (Akk) mit etw (Dat) versorgen"
+    },
+    {
+      "verb": "raten",
+      "structure": "jdm (Dat) raten"
+    },
+    {
+      "verb": "aufhalten",
+      "structure": "jdn (Akk) aufhalten"
+    },
+    {
+      "verb": "herstellen",
+      "structure": "etw (Akk) herstellen"
+    },
+    {
+      "verb": "vorbereiten",
+      "structure": "sich (Akk) auf etw (Akk) vorbereiten"
+    },
+    {
+      "verb": "anfangen",
+      "structure": "mit etw (Dat) anfangen"
+    },
+    {
+      "verb": "entscheiden",
+      "structure": "sich (Akk) für etw (Akk) entscheiden"
+    },
+    {
+      "verb": "erlauben",
+      "structure": "jdm (Dat) etw (Akk) erlauben"
+    },
+    {
+      "verb": "erleben",
+      "structure": "etw (Akk) erleben"
+    },
+    {
+      "verb": "erreichen",
+      "structure": "etw (Akk) erreichen"
+    },
+    {
+      "verb": "hinweisen",
+      "structure": "auf etw (Akk) hinweisen"
+    },
+    {
+      "verb": "versuchen",
+      "structure": "etw (Akk) versuchen"
+    },
+    {
+      "verb": "abschaffen",
+      "structure": "etw (Akk) abschaffen"
+    },
+    {
+      "verb": "aufpassen",
+      "structure": "auf jdn/etw (Akk) aufpassen"
+    },
+    {
+      "verb": "erinnern",
+      "structure": "sich (Akk) an jdn/etw (Akk) erinnern"
+    },
+    {
+      "verb": "verabschieden",
+      "structure": "sich (Akk) von jdm (Dat) verabschieden"
+    },
+    {
+      "verb": "beeilen",
+      "structure": "sich (Akk) beeilen"
+    },
+    {
+      "verb": "genehmigen",
+      "structure": "etw (Akk) genehmigen"
+    },
+    {
+      "verb": "nähern",
+      "structure": "sich (Akk) jdm/etw (Dat) nähern"
+    },
+    {
+      "verb": "fördern",
+      "structure": "jdn/etw (Akk) fördern"
+    },
+    {
+      "verb": "trainieren",
+      "structure": "etw (Akk) trainieren"
+    },
+    {
+      "verb": "verhindern",
+      "structure": "etw (Akk) verhindern"
+    },
+    {
+      "verb": "verteidigen",
+      "structure": "jdn/etw (Akk) verteidigen"
+    },
+    {
+      "verb": "überwiegen",
+      "structure": "etw (Akk) überwiegen"
+    },
+    {
+      "verb": "verschwenden",
+      "structure": "etw (Akk) verschwenden"
+    },
+    {
+      "verb": "anerkennen",
+      "structure": "etw (Akk) anerkennen"
+    },
+    {
+      "verb": "beschimpfen",
+      "structure": "jdn (Akk) beschimpfen"
+    },
+    {
+      "verb": "konkretisieren",
+      "structure": "etw (Akk) konkretisieren"
+    }
+  ],
+  "4": [
+    {
+      "verb": "schützen",
+      "structure": "jdn/etw (Akk) schützen"
+    },
+    {
+      "verb": "zunehmen",
+      "structure": "an etw (Dat) zunehmen"
+    },
+    {
+      "verb": "bewerben",
+      "structure": "sich (Akk) um etw (Akk) bewerben"
+    },
+    {
+      "verb": "auffallen",
+      "structure": "jdm (Dat) auffallen"
+    },
+    {
+      "verb": "reisen",
+      "structure": "an einen Ort (Akk) reisen"
+    },
+    {
+      "verb": "lassen",
+      "structure": "etw (Akk) lassen"
+    },
+    {
+      "verb": "kämpfen",
+      "structure": "für/gegen etw (Akk) kämpfen"
+    },
+    {
+      "verb": "aufräumen",
+      "structure": "etw (Akk) aufräumen"
+    },
+    {
+      "verb": "ändern",
+      "structure": "etw (Akk) ändern"
+    },
+    {
+      "verb": "fangen",
+      "structure": "etw (Akk) fangen"
+    },
+    {
+      "verb": "verbessern",
+      "structure": "etw (Akk) verbessern"
+    },
+    {
+      "verb": "warnen",
+      "structure": "jdn (Akk) vor etw (Dat) warnen"
+    },
+    {
+      "verb": "dazwischenkommen",
+      "structure": "jdm (Dat) dazwischenkommen"
+    },
+    {
+      "verb": "scheitern",
+      "structure": "an etw (Dat) scheitern"
+    },
+    {
+      "verb": "akzeptieren",
+      "structure": "etw (Akk) akzeptieren"
+    },
+    {
+      "verb": "erklären",
+      "structure": "jdm (Dat) etw (Akk) erklären"
+    },
+    {
+      "verb": "träumen",
+      "structure": "von jdm/etw (Dat) träumen"
+    },
+    {
+      "verb": "verkaufen",
+      "structure": "etw (Akk) verkaufen"
+    },
+    {
+      "verb": "erwarten",
+      "structure": "etw (Akk) erwarten"
+    },
+    {
+      "verb": "unterstützen",
+      "structure": "jdn (Akk) unterstützen"
+    },
+    {
+      "verb": "ausreichen",
+      "structure": "für etw (Akk) ausreichen"
+    },
+    {
+      "verb": "bauen",
+      "structure": "etw (Akk) bauen"
+    },
+    {
+      "verb": "vorbeigehen",
+      "structure": "an etw (Dat) vorbeigehen"
+    },
+    {
+      "verb": "helfen",
+      "structure": "jdm (Dat) helfen"
+    },
+    {
+      "verb": "ergänzen",
+      "structure": "etw (Akk) ergänzen"
+    },
+    {
+      "verb": "sortieren",
+      "structure": "etw (Akk) sortieren"
+    },
+    {
+      "verb": "aushalten",
+      "structure": "etw (Akk) aushalten"
+    },
+    {
+      "verb": "wegnehmen",
+      "structure": "jdm (Dat) etw (Akk) wegnehmen"
+    },
+    {
+      "verb": "schreien",
+      "structure": "nach jdm/etw (Dat) schreien"
+    },
+    {
+      "verb": "betrügen",
+      "structure": "jdn (Akk) betrügen"
+    },
+    {
+      "verb": "schicken",
+      "structure": "etw (Akk) schicken"
+    },
+    {
+      "verb": "verlieren",
+      "structure": "etw (Akk) verlieren"
+    },
+    {
+      "verb": "erwähnen",
+      "structure": "etw (Akk) erwähnen"
+    },
+    {
+      "verb": "benutzen",
+      "structure": "etw (Akk) benutzen"
+    },
+    {
+      "verb": "gefallen",
+      "structure": "jdm (Dat) gefallen"
+    },
+    {
+      "verb": "bleiben",
+      "structure": "an einem Ort (Dat) bleiben"
+    },
+    {
+      "verb": "benehmen",
+      "structure": "sich (Akk) benehmen"
+    },
+    {
+      "verb": "erledigen",
+      "structure": "etw (Akk) erledigen"
+    },
+    {
+      "verb": "singen",
+      "structure": "etw (Akk) singen"
+    },
+    {
+      "verb": "reparieren",
+      "structure": "etw (Akk) reparieren"
+    },
+    {
+      "verb": "nachweisen",
+      "structure": "etw (Akk) nachweisen"
+    },
+    {
+      "verb": "kümmern",
+      "structure": "sich (Akk) um jdn/etw (Akk) kümmern"
+    },
+    {
+      "verb": "schaffen",
+      "structure": "etw (Akk) schaffen"
+    },
+    {
+      "verb": "kündigen",
+      "structure": "jdm (Dat) kündigen"
+    },
+    {
+      "verb": "fahren",
+      "structure": "an einen Ort (Akk) fahren"
+    },
+    {
+      "verb": "hindern",
+      "structure": "jdn (Akk) an etw (Dat) hindern"
+    },
+    {
+      "verb": "hören",
+      "structure": "etw (Akk) hören"
+    },
+    {
+      "verb": "folgen",
+      "structure": "jdm (Dat) folgen"
+    },
+    {
+      "verb": "leben",
+      "structure": "von etw (Dat) leben"
+    },
+    {
+      "verb": "vergeben",
+      "structure": "jdm (Dat) vergeben"
+    },
+    {
+      "verb": "erwerben",
+      "structure": "etw (Akk) erwerben"
+    },
+    {
+      "verb": "verletzen",
+      "structure": "jdn (Akk) verletzen"
+    },
+    {
+      "verb": "bearbeiten",
+      "structure": "etw (Akk) bearbeiten"
+    },
+    {
+      "verb": "betreiben",
+      "structure": "etw (Akk) betreiben"
+    },
+    {
+      "verb": "entfernen",
+      "structure": "etw (Akk) entfernen"
+    },
+    {
+      "verb": "verärgern",
+      "structure": "jdn (Akk) verärgern"
+    },
+    {
+      "verb": "anstrengen",
+      "structure": "sich (Akk) anstrengen"
+    }
+  ],
+  "5": [
+    {
+      "verb": "fordern",
+      "structure": "etw (Akk) fordern"
+    },
+    {
+      "verb": "verhaften",
+      "structure": "jdn (Akk) verhaften"
+    },
+    {
+      "verb": "wünschen",
+      "structure": "sich (Akk) etw (Akk) wünschen"
+    },
+    {
+      "verb": "verursachen",
+      "structure": "etw (Akk) verursachen"
+    },
+    {
+      "verb": "beenden",
+      "structure": "etw (Akk) beenden"
+    },
+    {
+      "verb": "bestellen",
+      "structure": "etw (Akk) bestellen"
+    },
+    {
+      "verb": "auswirken",
+      "structure": "sich (Akk) auf etw (Akk) auswirken"
+    },
+    {
+      "verb": "widersprechen",
+      "structure": "jdm (Dat) widersprechen"
+    },
+    {
+      "verb": "laufen",
+      "structure": "um etw (Akk) laufen"
+    },
+    {
+      "verb": "regnen",
+      "structure": "es regnet"
+    },
+    {
+      "verb": "bestätigen",
+      "structure": "etw (Akk) bestätigen"
+    },
+    {
+      "verb": "anfassen",
+      "structure": "etw (Akk) anfassen"
+    },
+    {
+      "verb": "beschweren",
+      "structure": "sich (Akk) über etw (Akk) beschweren"
+    },
+    {
+      "verb": "diskutieren",
+      "structure": "über etw (Akk) diskutieren"
+    },
+    {
+      "verb": "kooperieren",
+      "structure": "mit jdm (Dat) kooperieren"
+    },
+    {
+      "verb": "aufhören",
+      "structure": "mit etw (Dat) aufhören"
+    },
+    {
+      "verb": "ärgern",
+      "structure": "sich (Akk) über etw (Akk) ärgern"
+    },
+    {
+      "verb": "lehren",
+      "structure": "jdn (Akk) etw (Akk) lehren"
+    },
+    {
+      "verb": "bringen",
+      "structure": "jdm (Dat) etw (Akk) bringen"
+    },
+    {
+      "verb": "planen",
+      "structure": "etw (Akk) planen"
+    },
+    {
+      "verb": "schneiden",
+      "structure": "etw (Akk) schneiden"
+    },
+    {
+      "verb": "verständigen",
+      "structure": "sich (Akk) mit jdm (Dat) verständigen"
+    },
+    {
+      "verb": "denken",
+      "structure": "an jdn/etw (Akk) denken"
+    },
+    {
+      "verb": "anschaffen",
+      "structure": "sich (Akk) etw (Akk) anschaffen"
+    },
+    {
+      "verb": "aneignen",
+      "structure": "sich (Akk) etw (Akk) aneignen"
+    },
+    {
+      "verb": "wiederholen",
+      "structure": "etw (Akk) wiederholen"
+    },
+    {
+      "verb": "vernachlässigen",
+      "structure": "etw (Akk) vernachlässigen"
+    },
+    {
+      "verb": "setzen",
+      "structure": "sich (Akk) setzen"
+    },
+    {
+      "verb": "auswählen",
+      "structure": "etw (Akk) auswählen"
+    },
+    {
+      "verb": "rauchen",
+      "structure": "etw (Akk) rauchen"
+    },
+    {
+      "verb": "beweisen",
+      "structure": "etw (Akk) beweisen"
+    },
+    {
+      "verb": "erkennen",
+      "structure": "etw (Akk) erkennen"
+    },
+    {
+      "verb": "machen",
+      "structure": "etw (Akk) machen"
+    },
+    {
+      "verb": "erziehen",
+      "structure": "jdn (Akk) erziehen"
+    },
+    {
+      "verb": "zahlen",
+      "structure": "etw (Akk) zahlen"
+    },
+    {
+      "verb": "bewahren",
+      "structure": "etw (Akk) bewahren"
+    },
+    {
+      "verb": "finden",
+      "structure": "etw (Akk) finden"
+    },
+    {
+      "verb": "sagen",
+      "structure": "jdm (Dat) etw (Akk) sagen"
+    },
+    {
+      "verb": "überreden",
+      "structure": "jdn (Akk) zu etw (Dat) überreden"
+    },
+    {
+      "verb": "vorliegen",
+      "structure": "etw (Nom) liegt vor"
+    },
+    {
+      "verb": "spielen",
+      "structure": "etw (Akk) spielen"
+    },
+    {
+      "verb": "verstehen",
+      "structure": "etw (Akk) verstehen"
+    },
+    {
+      "verb": "warten",
+      "structure": "auf jdn/etw (Akk) warten"
+    },
+    {
+      "verb": "beraten",
+      "structure": "jdn (Akk) beraten"
+    },
+    {
+      "verb": "verwandeln",
+      "structure": "etw (Akk) in etw (Akk) verwandeln"
+    },
+    {
+      "verb": "starten",
+      "structure": "etw (Akk) starten"
+    },
+    {
+      "verb": "schämen",
+      "structure": "sich (Akk) schämen"
+    },
+    {
+      "verb": "verhalten",
+      "structure": "sich (Akk) verhalten"
+    },
+    {
+      "verb": "beherrschen",
+      "structure": "etw (Akk) beherrschen"
+    },
+    {
+      "verb": "überweisen",
+      "structure": "jdm (Dat) etw (Akk) überweisen"
+    },
+    {
+      "verb": "bemühen",
+      "structure": "sich (Akk) bemühen"
+    },
+    {
+      "verb": "entlassen",
+      "structure": "jdn (Akk) entlassen"
+    },
+    {
+      "verb": "gliedern",
+      "structure": "etw (Akk) gliedern"
+    },
+    {
+      "verb": "bleidigen",
+      "structure": "jdn (Akk) beleidigen"
+    },
+    {
+      "verb": "bewaffnen",
+      "structure": "jdn (Akk) bewaffnen"
+    },
+    {
+      "verb": "betragen",
+      "structure": "sich (Akk) betragen"
+    },
+    {
+      "verb": "verraten",
+      "structure": "jdn (Akk) verraten"
+    }
+  ],
+    "6": [
+    {
+      "verb": "bedauern",
+      "structure": "etw (Akk) bedauern"
+    },
+    {
+      "verb": "auskennen",
+      "structure": "sich (Akk) mit etw (Dat) auskennen"
+    },
+    {
+      "verb": "vorziehen",
+      "structure": "etw (Akk) vorziehen"
+    },
+    {
+      "verb": "schreiben",
+      "structure": "etw (Akk) schreiben"
+    },
+    {
+      "verb": "umsetzen",
+      "structure": "etw (Akk) umsetzen"
+    },
+    {
+      "verb": "vorstellen",
+      "structure": "sich (Akk) jdm (Dat) vorstellen"
+    },
+    {
+      "verb": "betreuen",
+      "structure": "jdn (Akk) betreuen"
+    },
+    {
+      "verb": "beobachten",
+      "structure": "jdn/etw (Akk) beobachten"
+    },
+    {
+      "verb": "verbinden",
+      "structure": "etw (Akk) mit etw (Dat) verbinden"
+    },
+    {
+      "verb": "anrufen",
+      "structure": "jdn (Akk) anrufen"
+    },
+    {
+      "verb": "veröffentlichen",
+      "structure": "etw (Akk) veröffentlichen"
+    },
+    {
+      "verb": "melden",
+      "structure": "etw (Akk) melden"
+    },
+    {
+      "verb": "vergessen",
+      "structure": "etw (Akk) vergessen"
+    },
+    {
+      "verb": "nachdenken",
+      "structure": "über etw (Akk) nachdenken"
+    },
+    {
+      "verb": "begeistern",
+      "structure": "jdn (Akk) begeistern"
+    },
+    {
+      "verb": "erzählen",
+      "structure": "jdm (Dat) etw (Akk) erzählen"
+    },
+    {
+      "verb": "verzeihen",
+      "structure": "jdm (Dat) etw (Akk) verzeihen"
+    },
+    {
+      "verb": "informieren",
+      "structure": "jdn (Akk) über etw (Akk) informieren"
+    },
+    {
+      "verb": "verlaufen",
+      "structure": "sich (Akk) verlaufen"
+    },
+    {
+      "verb": "bitten",
+      "structure": "jdn (Akk) um etw (Akk) bitten"
+    },
+    {
+      "verb": "entschließen",
+      "structure": "sich (Akk) zu etw (Dat) entschließen"
+    },
+    {
+      "verb": "beschreiben",
+      "structure": "etw (Akk) beschreiben"
+    },
+    {
+      "verb": "hinhalten",
+      "structure": "jdn (Akk) hinhalten"
+    },
+    {
+      "verb": "verbringen",
+      "structure": "etw (Akk) verbringen"
+    },
+    {
+      "verb": "besitzen",
+      "structure": "etw (Akk) besitzen"
+    },
+    {
+      "verb": "mitteilen",
+      "structure": "jdm (Dat) etw (Akk) mitteilen"
+    },
+    {
+      "verb": "führen",
+      "structure": "etw (Akk) führen"
+    },
+    {
+      "verb": "beginnen",
+      "structure": "mit etw (Dat) beginnen"
+    },
+    {
+      "verb": "empfehlen",
+      "structure": "jdm (Dat) etw (Akk) empfehlen"
+    },
+    {
+      "verb": "vertreten",
+      "structure": "jdn/etw (Akk) vertreten"
+    },
+    {
+      "verb": "weinen",
+      "structure": "über etw (Akk) weinen"
+    },
+    {
+      "verb": "lohnen",
+      "structure": "sich (Akk) lohnen"
+    },
+    {
+      "verb": "fallen",
+      "structure": "jdm (Dat) einfallen"
+    },
+    {
+      "verb": "aufmachen",
+      "structure": "etw (Akk) aufmachen"
+    },
+    {
+      "verb": "fortfahren",
+      "structure": "mit etw (Dat) fortfahren"
+    },
+    {
+      "verb": "gönnen",
+      "structure": "jdm (Dat) etw (Akk) gönnen"
+    },
+    {
+      "verb": "wählen",
+      "structure": "etw (Akk) wählen"
+    },
+    {
+      "verb": "kommen",
+      "structure": "an einen Ort (Akk) kommen"
+    },
+    {
+      "verb": "unterscheiden",
+      "structure": "etw (Akk) von etw (Dat) unterscheiden"
+    },
+    {
+      "verb": "zeichnen",
+      "structure": "etw (Akk) zeichnen"
+    },
+    {
+      "verb": "umgeben",
+      "structure": "etw (Akk) umgeben"
+    },
+    {
+      "verb": "fragen",
+      "structure": "jdn (Akk) nach etw (Dat) fragen"
+    },
+    {
+      "verb": "eignen",
+      "structure": "sich (Akk) für etw (Akk) eignen"
+    },
+    {
+      "verb": "beibringen",
+      "structure": "jdm (Dat) etw (Akk) beibringen"
+    },
+    {
+      "verb": "beitragen",
+      "structure": "zu etw (Dat) beitragen"
+    },
+    {
+      "verb": "stehen",
+      "structure": "auf etw (Dat) stehen"
+    },
+    {
+      "verb": "ziehen",
+      "structure": "etw (Akk) ziehen"
+    },
+    {
+      "verb": "leisten",
+      "structure": "etw (Akk) leisten"
+    },
+    {
+      "verb": "biegen",
+      "structure": "etw (Akk) biegen"
+    },
+    {
+      "verb": "zugeben",
+      "structure": "etw (Akk) zugeben"
+    },
+    {
+      "verb": "vereinen",
+      "structure": "etw (Akk) vereinen"
+    },
+    {
+      "verb": "umwandeln",
+      "structure": "etw (Akk) in etw (Akk) umwandeln"
+    },
+    {
+      "verb": "erneuern",
+      "structure": "etw (Akk) erneuern"
+    }
+  ]
+  }
