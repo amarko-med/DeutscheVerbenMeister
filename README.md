@@ -33,15 +33,6 @@ Icons: Font Awesome.
 
 Design: Responsive mobile-first layout.
 
-📦 Installation
-
-Clone the repository:
-
-bash
-Copy
-Edit
-git clone https://github.com/yourusername/DeutscheVerbenMeister.git
-Open index.html in your browser (no server required).
 
 🌟 Upcoming Features
 
@@ -69,14 +60,7 @@ Push to the branch (git push origin feature/AmazingFeature).
 
 Open a Pull Request.
 
-📄 License
-
-Distributed under the MIT License. See [LICENSE](link to license file) for more information.
 
 📬 Contact
 
-Your Name
-
-Twitter: [@yourtwitter](link to your Twitter)
-
-Email: youremail@example.com
+Email: Amarkouchi5@gmail.com
