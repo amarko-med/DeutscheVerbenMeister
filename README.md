@@ -14,7 +14,6 @@
 * ✅ Interactive verb selection and feedback
 * 🇩🇪 Helps learners distinguish between **Akkusativ** and **Dativ**
 * ✍️ Add or remove verbs for each practice day
-* 🌐 Multilingual-ready (English, German, Arabic, French planned)
 
 ---
 
