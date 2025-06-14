@@ -1,66 +1,62 @@
-DeutscheVerbenMeister - German Verb Master App
-📖 Overview
+# 🇩🇪 Deutsche Verben Meister
 
-DeutscheVerbenMeister (German Verb Master) is an interactive web application designed to help learners master German verbs and their grammatical cases (Akkusativ/Dativ). The app offers verb practice, smart flashcards, progress tracking, and personalized learning features.
+*Deutsche Verben Meister* is a German verb trainer app that helps learners practice verb structures (Akkusativ/Dativ) over a 6-day learning schedule. The tool corrects user answers and helps reinforce understanding through repetition and feedback.
 
-🚀 Live Preview
+---
 
-View Live Demo [here](https://amarko-med.github.io/DeutscheVerbenMeister/).
+## 📸 Screenshot
 
-✨ Features
+---
 
-Verb Practice Mode - Test your knowledge of verb structures.
+## 🧠 Features
 
-Smart Flashcards - Interactive card flipping with spaced repetition.
+* 🗓️ 6-day practice structure to organize learning
+* ✅ Interactive verb selection and feedback
+* 🇩🇪 Helps learners distinguish between **Akkusativ** and **Dativ**
+* ✍️ Add or remove verbs for each practice day
+* 🌐 Multilingual-ready (English, German, Arabic, French planned)
 
-Progress Tracking - Visualize your mastery over time.
+---
 
-Verb Library - Over 300 verbs organized by difficulty.
+## 🚀 Live Demo
 
-Achievements - Gamified learning milestones.
+Try it now:
+👉 **[https://amarko-med.github.io/DeutscheVerbenMeister/](https://amarko-med.github.io/DeutscheVerbenMeister/)**
 
-Dark/Light Mode - Eye-friendly theme options.
+---
 
-🛠️ Technologies
+## 🛠️ Built With
 
-Frontend: HTML5, CSS3, JavaScript (ES6+).
+* HTML
+* CSS
+* JavaScript
 
-Data: JSON verb database.
+---
 
-Storage: LocalStorage for user progress.
+## 📚 Learning Purpose
 
-Icons: Font Awesome.
+This is part of my personal learning journey. I started this project after learning the basics of JavaScript and improved it step by step as I gained more skills. It reflects my progress and growing experience in web development.
 
-Design: Responsive mobile-first layout.
+---
 
+## 🤖 AI Assistance
 
-🌟 Upcoming Features
+Some parts of this project were developed with the help of AI to optimize code and speed up development, while all logic and structure were fully understood and implemented by me.
 
-User accounts with cloud sync.
+---
 
-Verb conjugation practice.
+## 📂 Project Status
 
-Audio pronunciation guides.
+🟢 Active — I continue to improve it, including features like translation, progress tracking, and mobile optimization.
 
-Example sentences for each verb.
+---
 
-Mobile app version.
+## 📩 Contact
 
-🤝 Contributing
+##  Email: [amarkouchi5@gmail.com](mailto:amarkouchi5@gmail.com)
 
-Contributions are welcome! Follow these steps:
+---
 
-Fork the project.
+## 📝 License
 
-Create your feature branch (git checkout -b feature/AmazingFeature).
-
-Commit your changes (git commit -m 'Add some AmazingFeature').
-
-Push to the branch (git push origin feature/AmazingFeature).
-
-Open a Pull Request.
-
-
-📬 Contact
-
-Email: Amarkouchi5@gmail.com
+MIT – Free to use and modify.
