@@ -259,7 +259,6 @@ body {
   border: 1px solid var(--border-color);
   background-color: var(--bg-color);
   color: var(--text-color);
-  margin-bottom: 15px;
 }
 
 /* Practice Container */
