@@ -5,7 +5,7 @@ DeutscheVerbenMeister (German Verb Master) is an interactive web application des
 
 🚀 Live Preview
 
-View Live Demo [here]((https://amarko-med.github.io/DeutscheVerbenMeister-/)).
+View Live Demo [here](https://amarko-med.github.io/DeutscheVerbenMeister-/).
 
 ✨ Features
 
