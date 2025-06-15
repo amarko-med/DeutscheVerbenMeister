@@ -4,21 +4,20 @@
 
 ---
 
-## 📸 Screenshot
+<h2>📸 Screenshots</h2>
 
-### 🖼️ Main View  
-![Main View](images/Screenshot%202025-06-15%20130215.png)
+<p><strong>🖼️ Main View & 🧪 Practice Mode</strong></p>
+<p>
+  <img src="images/Screenshot%202025-06-15%20130215.png" alt="Main View" width="45%">
+  <img src="images/Screenshot%202025-06-15%20130323.png" alt="Practice Mode" width="45%">
+</p>
 
-### 🧪 Verb Practice Mode  
-![Practice Mode](images/Screenshot%202025-06-15%20130323.png)
-
-### 📋 Verb List Editor  
-![Verb List Editor](images/Screenshot%202025-06-15%20130829.png)
-
-### 🃏 Flashcard Mode  
-![Flashcard Mode](images/Screenshot%202025-06-15%20130547.png)
+<p><strong>📋 Verb List & 🃏 Flashcard Mode</strong></p>
+<p>
+  <img src="images/Screenshot%202025-06-15%20130829.png" alt="Verb List Editor" width="45%">
+  <img src="images/Screenshot%202025-06-15%20130547.png" alt="Flashcard Mode" width="45%">
+</p>
 ---
-
 ## 🧠 Features
 
 * 🗓️ 6-day practice structure to organize learning
