@@ -5,7 +5,16 @@
 ---
 
 ## 📸 Screenshot
+### 🖼️ Main View
+![Main View](images/Screenshot 2025-06-15 130215.png)
 
+### 🧪 Verb Practice Mode
+![Practice Mode](images/Screenshot 2025-06-15 130323.png)
+
+### 📋 Verb List Editor
+![Verb List Editor](images/Screenshot 2025-06-15 130829.png)
+### 🃏 Flashcard Mode
+![Flashcard Mode](images/Screenshot 2025-06-15 130547.png)
 ---
 
 ## 🧠 Features
