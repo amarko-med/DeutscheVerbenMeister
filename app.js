@@ -324,8 +324,23 @@ function renderFlashcard() {
   }
   
   const currentVerb = flashcardVerbs[flashcardIndex];
-  flashcardFront.querySelector('.flashcard-content').textContent = currentVerb.verb;
-  flashcardBack.querySelector('.flashcard-content').textContent = currentVerb.structure;
+  // Front: Infinitive, Perfekt, Präteritum
+
+flashcardFront.querySelector('.flashcard-content').innerHTML = `
+ <div class="flashcard-verb-main">${currentVerb.infinitive || currentVerb.verb}</div>
+ <div class="flashcard-tenses">
+ <div class="tense perfekt"><strong>Perfekt:</strong> ${currentVerb.perfekt || ''}</div>
+<div class="tense praeteritum"><strong>Präteritum:</strong> ${currentVerb.praeteritum || ''}</div>
+ </div>
+`;
+
+// Back: Structure, Translation, Example
+flashcardBack.querySelector('.flashcard-content').innerHTML = `
+  <div class="flashcard-translation">${currentVerb.translation || ''}</div>
+  <div class="flashcard-structure">${currentVerb.structure}</div>
+  <div class="flashcard-example"><em>${currentVerb.example || ''}</em></div>
+`;
+
   document.getElementById('flashcard').classList.remove('flipped');
   
   // Update progress indicator
@@ -515,11 +530,11 @@ function renderVerb() {
 
 function showHint() {
   const verb = selectedVerbs[currentIndex];
-  const hint = verb.structure.replace(/\(([^)]+)\)/g, '<span class="case-marker">$1</span>');
+  const translation = verb.translation || "No translation available.";
   document.getElementById('hint-area').innerHTML = `
     <div class="hint-content">
-      <h4>Structure Hint</h4>
-      <div class="structure-hint">${hint}</div>
+      <h4>Translation Hint</h4>
+      <div class="structure-hint">${translation}</div>
     </div>`;
 }
 
