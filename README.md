@@ -14,7 +14,7 @@
 
 <p><strong>📋 Verb List & 🃏 Flashcard Mode</strong></p>
 <p>
-  <img src="images/Screenshot%202025-06-15%20130829.png" alt="Verb List Editor" width="35%">
+  <img src="images/Screenshot%202025-06-18%20165927.png" alt="Verb List Editor" width="35%">
   <img src="images/Screenshot%202025-06-15%20132845.png" alt="Flashcard Mode" width="35%">
 </p>
 
