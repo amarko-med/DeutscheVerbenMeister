@@ -17,13 +17,19 @@
   <img src="images/Screenshot%202025-06-15%20130829.png" alt="Verb List Editor" width="35%">
   <img src="images/Screenshot%202025-06-15%20132845.png" alt="Flashcard Mode" width="35%">
 </p>
+
 ---
+
 ## 🧠 Features
 
 * 🗓️ 6-day practice structure to organize learning
 * ✅ Interactive verb selection and feedback
 * 🇩🇪 Helps learners distinguish between **Akkusativ** and **Dativ**
 * ✍️ Add or remove verbs for each practice day
+* 🃏 Flashcards now include:
+  * Example sentences
+  * English translations
+  * Verb forms (Perfekt and Präteritum)
 
 ---
 
