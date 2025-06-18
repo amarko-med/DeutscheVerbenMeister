@@ -1,1353 +1,2694 @@
- { "1" : [
+ {
+  "1": [
     {
       "verb": "beantworten",
-      "structure": "jdn/etw (Akk) beantworten"
+      "structure": "jdn/etw (Akk) beantworten",
+      "perfekt": "hat beantwortet",
+      "praeteritum": "beantwortete",
+      "translation": "to answer",
+      "example": "Ich beantworte die Frage (Akk)."
     },
     {
       "verb": "gestalten",
-      "structure": "etw (Akk) gestalten"
+      "structure": "etw (Akk) gestalten",
+      "perfekt": "hat gestaltet",
+      "praeteritum": "gestaltete",
+      "translation": "to design, shape",
+      "example": "Wir gestalten das Programm (Akk)."
     },
     {
       "verb": "zeigen",
-      "structure": "jdm (Dat) etw (Akk) zeigen"
+      "structure": "jdm (Dat) etw (Akk) zeigen",
+      "perfekt": "hat gezeigt",
+      "praeteritum": "zeigte",
+      "translation": "to show",
+      "example": "Er zeigt mir (Dat) das Bild (Akk)."
     },
     {
       "verb": "hoffen",
-      "structure": "auf etw (Akk) hoffen"
+      "structure": "auf etw (Akk) hoffen",
+      "perfekt": "hat gehofft",
+      "praeteritum": "hoffte",
+      "translation": "to hope",
+      "example": "Sie hofft auf besseres Wetter (Akk)."
     },
     {
       "verb": "ermöglichen",
-      "structure": "jdm (Dat) etw (Akk) ermöglichen"
+      "structure": "jdm (Dat) etw (Akk) ermöglichen",
+      "perfekt": "hat ermöglicht",
+      "praeteritum": "ermöglichte",
+      "translation": "to enable, make possible",
+      "example": "Dies ermöglicht uns (Dat) neue Chancen (Akk)."
     },
     {
       "verb": "umziehen",
-      "structure": "an einen Ort (Akk) umziehen"
+      "structure": "an einen Ort (Akk) umziehen",
+      "perfekt": "ist umgezogen",
+      "praeteritum": "zog um",
+      "translation": "to move (residence)",
+      "example": "Wir ziehen nach Berlin (Akk) um."
     },
     {
       "verb": "begleiten",
-      "structure": "jdn (Akk) begleiten"
+      "structure": "jdn (Akk) begleiten",
+      "perfekt": "hat begleitet",
+      "praeteritum": "begleitete",
+      "translation": "to accompany",
+      "example": "Ich begleite dich (Akk) zum Bahnhof."
     },
     {
       "verb": "abhängen",
-      "structure": "von jdm/etw (Dat) abhängen"
+      "structure": "von jdm/etw (Dat) abhängen",
+      "perfekt": "hat abgehangen",
+      "praeteritum": "hing ab",
+      "translation": "to depend on",
+      "example": "Das hängt vom Wetter (Dat) ab."
     },
     {
       "verb": "zweifeln",
-      "structure": "an etw (Dat) zweifeln"
+      "structure": "an etw (Dat) zweifeln",
+      "perfekt": "hat gezweifelt",
+      "praeteritum": "zweifelte",
+      "translation": "to doubt",
+      "example": "Er zweifelt an der Wahrheit (Dat)."
     },
     {
       "verb": "Zuständig sein",
-      "structure": "für etw (Akk) zuständig sein"
+      "structure": "für etw (Akk) zuständig sein",
+      "perfekt": "ist zuständig gewesen",
+      "praeteritum": "war zuständig",
+      "translation": "to be responsible for",
+      "example": "Sie ist für das Projekt (Akk) zuständig."
     },
     {
       "verb": "zwingen",
-      "structure": "jdn (Akk) zu etw (Dat) zwingen"
+      "structure": "jdn (Akk) zu etw (Dat) zwingen",
+      "perfekt": "hat gezwungen",
+      "praeteritum": "zwang",
+      "translation": "to force",
+      "example": "Sie zwang ihn (Akk) zur Ruhe (Dat)."
     },
     {
       "verb": "abschließen",
-      "structure": "etw (Akk) abschließen"
+      "structure": "etw (Akk) abschließen",
+      "perfekt": "hat abgeschlossen",
+      "praeteritum": "schloss ab",
+      "translation": "to conclude, lock",
+      "example": "Ich schließe die Tür (Akk) ab."
     },
     {
       "verb": "nachholen",
-      "structure": "etw (Akk) nachholen"
+      "structure": "etw (Akk) nachholen",
+      "perfekt": "hat nachgeholt",
+      "praeteritum": "holte nach",
+      "translation": "to make up for",
+      "example": "Er holt den Unterricht (Akk) nach."
     },
     {
       "verb": "bewerten",
-      "structure": "etw (Akk) bewerten"
+      "structure": "etw (Akk) bewerten",
+      "perfekt": "hat bewertet",
+      "praeteritum": "bewertete",
+      "translation": "to evaluate",
+      "example": "Der Lehrer bewertet die Tests (Akk)."
     },
     {
       "verb": "verbieten",
-      "structure": "jdm (Dat) etw (Akk) verbieten"
+      "structure": "jdm (Dat) etw (Akk) verbieten",
+      "perfekt": "hat verboten",
+      "praeteritum": "verbot",
+      "translation": "to forbid",
+      "example": "Sie verbot ihm (Dat) das Rauchen (Akk)."
     },
     {
       "verb": "betrachten",
-      "structure": "jdn/etw (Akk) betrachten"
+      "structure": "jdn/etw (Akk) betrachten",
+      "perfekt": "hat betrachtet",
+      "praeteritum": "betrachtete",
+      "translation": "to observe, consider",
+      "example": "Wir betrachten die Situation (Akk)."
     },
     {
       "verb": "sitzen",
-      "structure": "auf etw (Dat) sitzen"
+      "structure": "auf etw (Dat) sitzen",
+      "perfekt": "hat gesessen",
+      "praeteritum": "saß",
+      "translation": "to sit",
+      "example": "Er sitzt auf dem Stuhl (Dat)."
     },
     {
       "verb": "vertrauen",
-      "structure": "jdm (Dat) vertrauen"
+      "structure": "jdm (Dat) vertrauen",
+      "perfekt": "hat vertraut",
+      "praeteritum": "vertraute",
+      "translation": "to trust",
+      "example": "Ich vertraue dir (Dat)."
     },
     {
       "verb": "steigen",
-      "structure": "auf etw (Akk) steigen"
+      "structure": "auf etw (Akk) steigen",
+      "perfekt": "ist gestiegen",
+      "praeteritum": "stieg",
+      "translation": "to climb",
+      "example": "Sie steigt auf den Berg (Akk)."
     },
     {
       "verb": "verwöhnen",
-      "structure": "jdn (Akk) verwöhnen"
+      "structure": "jdn (Akk) verwöhnen",
+      "perfekt": "hat verwöhnt",
+      "praeteritum": "verwöhnte",
+      "translation": "to pamper",
+      "example": "Sie verwöhnt ihre Gäste (Akk)."
     },
     {
       "verb": "aufnehmen",
-      "structure": "jdn/etw (Akk) aufnehmen"
+      "structure": "jdn/etw (Akk) aufnehmen",
+      "perfekt": "hat aufgenommen",
+      "praeteritum": "nahm auf",
+      "translation": "to record, admit",
+      "example": "Die Schule nimmt neue Schüler (Akk) auf."
     },
     {
       "verb": "schockieren",
-      "structure": "jdn (Akk) schockieren"
+      "structure": "jdn (Akk) schockieren",
+      "perfekt": "hat schockiert",
+      "praeteritum": "schockierte",
+      "translation": "to shock",
+      "example": "Die Nachricht schockierte mich (Akk)."
     },
     {
       "verb": "untersuchen",
-      "structure": "jdn/etw (Akk) untersuchen"
+      "structure": "jdn/etw (Akk) untersuchen",
+      "perfekt": "hat untersucht",
+      "praeteritum": "untersuchte",
+      "translation": "to examine",
+      "example": "Der Arzt untersucht den Patienten (Akk)."
     },
     {
       "verb": "abbrechen",
-      "structure": "etw (Akk) abbrechen"
+      "structure": "etw (Akk) abbrechen",
+      "perfekt": "hat abgebrochen",
+      "praeteritum": "brach ab",
+      "translation": "to break off",
+      "example": "Er bricht das Studium (Akk) ab."
     },
     {
       "verb": "merken",
-      "structure": "sich (Akk) etw (Akk) merken"
+      "structure": "sich (Akk) etw (Akk) merken",
+      "perfekt": "hat gemerkt",
+      "praeteritum": "merkte",
+      "translation": "to remember",
+      "example": "Ich merke mir die Nummer (Akk)."
     },
     {
       "verb": "behalten",
-      "structure": "etw (Akk) behalten"
+      "structure": "etw (Akk) behalten",
+      "perfekt": "hat behalten",
+      "praeteritum": "behielt",
+      "translation": "to keep",
+      "example": "Sie behält das Buch (Akk)."
     },
     {
       "verb": "verlangen",
-      "structure": "etw (Akk) verlangen"
+      "structure": "etw (Akk) verlangen",
+      "perfekt": "hat verlangt",
+      "praeteritum": "verlangte",
+      "translation": "to demand",
+      "example": "Er verlangt eine Erklärung (Akk)."
     },
     {
       "verb": "beschäftigen",
-      "structure": "jdn (Akk) beschäftigen"
+      "structure": "jdn (Akk) beschäftigen",
+      "perfekt": "hat beschäftigt",
+      "praeteritum": "beschäftigte",
+      "translation": "to employ, occupy",
+      "example": "Die Firma beschäftigt viele Leute (Akk)."
     },
     {
       "verb": "beziehen",
-      "structure": "sich (Akk) auf etw (Akk) beziehen"
+      "structure": "sich (Akk) auf etw (Akk) beziehen",
+      "perfekt": "hat bezogen",
+      "praeteritum": "bezog",
+      "translation": "to refer to",
+      "example": "Das bezieht sich auf deine Frage (Akk)."
     },
     {
       "verb": "verschieben",
-      "structure": "etw (Akk) verschieben"
+      "structure": "etw (Akk) verschieben",
+      "perfekt": "hat verschoben",
+      "praeteritum": "schob ab",
+      "translation": "to postpone",
+      "example": "Wir verschieben das Meeting (Akk)."
     },
     {
       "verb": "begegnen",
-      "structure": "jdm (Dat) begegnen"
+      "structure": "jdm (Dat) begegnen",
+      "perfekt": "ist begegnet",
+      "praeteritum": "begegnete",
+      "translation": "to meet, encounter",
+      "example": "Ich bin ihm (Dat) gestern begegnet."
     },
     {
       "verb": "enttäuschen",
-      "structure": "jdn (Akk) enttäuschen"
+      "structure": "jdn (Akk) enttäuschen",
+      "perfekt": "hat enttäuscht",
+      "praeteritum": "enttäuschte",
+      "translation": "to disappoint",
+      "example": "Das Ergebnis enttäuscht mich (Akk)."
     },
     {
       "verb": "unterbrechen",
-      "structure": "jdn (Akk) unterbrechen"
+      "structure": "jdn (Akk) unterbrechen",
+      "perfekt": "hat unterbrochen",
+      "praeteritum": "unterbrach",
+      "translation": "to interrupt",
+      "example": "Er unterbricht den Redner (Akk)."
     },
     {
       "verb": "zusammenfassen",
-      "structure": "etw (Akk) zusammenfassen"
+      "structure": "etw (Akk) zusammenfassen",
+      "perfekt": "hat zusammengefasst",
+      "praeteritum": "fasste zusammen",
+      "translation": "to summarize",
+      "example": "Sie fasst die Ergebnisse (Akk) zusammen."
     },
     {
       "verb": "zuhören",
-      "structure": "jdm (Dat) zuhören"
+      "structure": "jdm (Dat) zuhören",
+      "perfekt": "hat zugehört",
+      "praeteritum": "hörte zu",
+      "translation": "to listen to",
+      "example": "Die Schüler hören dem Lehrer (Dat) zu."
     },
     {
       "verb": "behandeln",
-      "structure": "jdn/etw (Akk) behandeln"
+      "structure": "jdn/etw (Akk) behandeln",
+      "perfekt": "hat behandelt",
+      "praeteritum": "behandelte",
+      "translation": "to treat",
+      "example": "Der Arzt behandelt den Patienten (Akk)."
     },
     {
       "verb": "Besuchen",
-      "structure": "jdn/etw (Akk) besuchen"
+      "structure": "jdn/etw (Akk) besuchen",
+      "perfekt": "hat besucht",
+      "praeteritum": "besuchte",
+      "translation": "to visit",
+      "example": "Wir besuchen unsere Freunde (Akk)."
     },
     {
       "verb": "Zustimmen",
-      "structure": "jdm/etw (Dat) zustimmen"
+      "structure": "jdm/etw (Dat) zustimmen",
+      "perfekt": "hat zugestimmt",
+      "praeteritum": "stimmte zu",
+      "translation": "to agree",
+      "example": "Ich stimme dem Vorschlag (Dat) zu."
     },
     {
       "verb": "Abholen",
-      "structure": "jdn (Akk) abholen"
+      "structure": "jdn (Akk) abholen",
+      "perfekt": "hat abgeholt",
+      "praeteritum": "holte ab",
+      "translation": "to pick up",
+      "example": "Sie holt das Kind (Akk) von der Schule ab."
     },
     {
       "verb": "verändern",
-      "structure": "etw (Akk) verändern"
+      "structure": "etw (Akk) verändern",
+      "perfekt": "hat verändert",
+      "praeteritum": "veränderte",
+      "translation": "to change",
+      "example": "Das verändert die Situation (Akk)."
     },
     {
       "verb": "tun",
-      "structure": "etw (Akk) tun"
+      "structure": "etw (Akk) tun",
+      "perfekt": "hat getan",
+      "praeteritum": "tat",
+      "translation": "to do",
+      "example": "Was tust du (Akk)?"
     },
     {
       "verb": "vergleichen",
-      "structure": "etw (Akk) mit etw (Dat) vergleichen"
+      "structure": "etw (Akk) mit etw (Dat) vergleichen",
+      "perfekt": "hat verglichen",
+      "praeteritum": "verglich",
+      "translation": "to compare",
+      "example": "Ich vergleiche die Preise (Akk) mit den alten (Dat)."
     },
     {
       "verb": "ernähren",
-      "structure": "sich (Akk) von etw (Dat) ernähren"
+      "structure": "sich (Akk) von etw (Dat) ernähren",
+      "perfekt": "hat ernährt",
+      "praeteritum": "ernährte",
+      "translation": "to nourish, feed",
+      "example": "Er ernährt sich von Gemüse (Dat)."
     },
     {
       "verb": "treffen",
-      "structure": "jdn (Akk) treffen"
+      "structure": "jdn (Akk) treffen",
+      "perfekt": "hat getroffen",
+      "praeteritum": "traf",
+      "translation": "to meet",
+      "example": "Wir treffen unsere Freunde (Akk)."
     },
     {
       "verb": "lachen",
-      "structure": "über jdn/etw (Akk) lachen"
+      "structure": "über jdn/etw (Akk) lachen",
+      "perfekt": "hat gelacht",
+      "praeteritum": "lachte",
+      "translation": "to laugh",
+      "example": "Alle lachen über den Witz (Akk)."
     },
     {
       "verb": "stören",
-      "structure": "jdn (Akk) stören"
+      "structure": "jdn (Akk) stören",
+      "perfekt": "hat gestört",
+      "praeteritum": "störte",
+      "translation": "to disturb",
+      "example": "Das Geräusch stört mich (Akk)."
     },
     {
       "verb": "feiern",
-      "structure": "etw (Akk) feiern"
+      "structure": "etw (Akk) feiern",
+      "perfekt": "hat gefeiert",
+      "praeteritum": "feierte",
+      "translation": "to celebrate",
+      "example": "Wir feiern den Geburtstag (Akk)."
     },
     {
       "verb": "reagieren",
-      "structure": "auf etw (Akk) reagieren"
+      "structure": "auf etw (Akk) reagieren",
+      "perfekt": "hat reagiert",
+      "praeteritum": "reagierte",
+      "translation": "to react",
+      "example": "Sie reagiert auf die Kritik (Akk)."
     },
     {
       "verb": "warten",
-      "structure": "auf jdn/etw (Akk) warten"
+      "structure": "auf jdn/etw (Akk) warten",
+      "perfekt": "hat gewartet",
+      "praeteritum": "wartete",
+      "translation": "to wait",
+      "example": "Ich warte auf den Bus (Akk)."
     },
     {
       "verb": "konzentrieren",
-      "structure": "sich (Akk) auf etw (Akk) konzentrieren"
+      "structure": "sich (Akk) auf etw (Akk) konzentrieren",
+      "perfekt": "hat konzentriert",
+      "praeteritum": "konzentrierte",
+      "translation": "to concentrate",
+      "example": "Ich konzentriere mich auf die Arbeit (Akk)."
     },
     {
       "verb": "feststellen",
-      "structure": "etw (Akk) feststellen"
+      "structure": "etw (Akk) feststellen",
+      "perfekt": "hat festgestellt",
+      "praeteritum": "stellte fest",
+      "translation": "to determine, notice",
+      "example": "Wir stellen einen Fehler (Akk) fest."
     },
     {
       "verb": "bedienen",
-      "structure": "jdn (Akk) bedienen"
+      "structure": "jdn (Akk) bedienen",
+      "perfekt": "hat bedient",
+      "praeteritum": "bediente",
+      "translation": "to serve",
+      "example": "Der Kellner bedient die Gäste (Akk)."
     },
     {
       "verb": "eröffnen",
-      "structure": "etw (Akk) eröffnen"
+      "structure": "etw (Akk) eröffnen",
+      "perfekt": "hat eröffnet",
+      "praeteritum": "eröffnete",
+      "translation": "to open (e.g. event)",
+      "example": "Sie eröffnet das neue Geschäft (Akk)."
     },
     {
       "verb": "spenden",
-      "structure": "etw (Akk) spenden"
+      "structure": "etw (Akk) spenden",
+      "perfekt": "hat gespendet",
+      "praeteritum": "spendete",
+      "translation": "to donate",
+      "example": "Viele spenden Geld (Akk) für den guten Zweck."
     }
   ],
   "2": [
     {
       "verb": "leiden",
-      "structure": "an etw (Dat) leiden"
+      "structure": "an etw (Dat) leiden",
+      "perfekt": "hat gelitten",
+      "praeteritum": "litt",
+      "translation": "to suffer",
+      "example": "Er leidet an einer Krankheit (Dat)."
     },
     {
       "verb": "überzeugen",
-      "structure": "jdn (Akk) von etw (Dat) überzeugen"
+      "structure": "jdn (Akk) von etw (Dat) überzeugen",
+      "perfekt": "hat überzeugt",
+      "praeteritum": "überzeugte",
+      "translation": "to convince",
+      "example": "Sie überzeugte ihn (Akk) von ihrer Idee (Dat)."
     },
     {
       "verb": "einschätzen",
-      "structure": "jdn/etw (Akk) einschätzen"
+      "structure": "jdn/etw (Akk) einschätzen",
+      "perfekt": "hat eingeschätzt",
+      "praeteritum": "schätzte ein",
+      "translation": "to assess",
+      "example": "Der Experte schätzt die Situation (Akk) ein."
     },
     {
       "verb": "entstehen",
-      "structure": "aus etw (Dat) entstehen"
+      "structure": "aus etw (Dat) entstehen",
+      "perfekt": "ist entstanden",
+      "praeteritum": "entstand",
+      "translation": "to arise, originate",
+      "example": "Das Problem entstand aus einem Missverständnis (Dat)."
     },
     {
       "verb": "verfugen",
-      "structure": "etw (Akk) verfugen"
+      "structure": "etw (Akk) verfugen",
+      "perfekt": "hat verfugt",
+      "praeteritum": "verfugte",
+      "translation": "to point (masonry)",
+      "example": "Der Handwerker verfugt die Steine (Akk)."
     },
     {
       "verb": "übersetzen",
-      "structure": "etw (Akk) übersetzen"
+      "structure": "etw (Akk) übersetzen",
+      "perfekt": "hat übersetzt",
+      "praeteritum": "übersetzte",
+      "translation": "to translate",
+      "example": "Sie übersetzt den Text (Akk) ins Deutsche."
     },
     {
       "verb": "einladen",
-      "structure": "jdn (Akk) einladen"
+      "structure": "jdn (Akk) einladen",
+      "perfekt": "hat eingeladen",
+      "praeteritum": "lud ein",
+      "translation": "to invite",
+      "example": "Wir laden unsere Nachbarn (Akk) ein."
     },
     {
       "verb": "kaufen",
-      "structure": "etw (Akk) kaufen"
+      "structure": "etw (Akk) kaufen",
+      "perfekt": "hat gekauft",
+      "praeteritum": "kaufte",
+      "translation": "to buy",
+      "example": "Er kauft ein neues Auto (Akk)."
     },
     {
       "verb": "trennen",
-      "structure": "etw (Akk) trennen"
+      "structure": "etw (Akk) trennen",
+      "perfekt": "hat getrennt",
+      "praeteritum": "trennte",
+      "translation": "to separate",
+      "example": "Die Mutter trennt die streitenden Kinder (Akk)."
     },
     {
       "verb": "ausschließen",
-      "structure": "jdn (Akk) ausschließen"
+      "structure": "jdn (Akk) ausschließen",
+      "perfekt": "hat ausgeschlossen",
+      "praeteritum": "schloss aus",
+      "translation": "to exclude",
+      "example": "Sie schloss ihn (Akk) vom Spiel aus."
     },
     {
       "verb": "mitmachen",
-      "structure": "bei etw (Dat) mitmachen"
+      "structure": "bei etw (Dat) mitmachen",
+      "perfekt": "hat mitgemacht",
+      "praeteritum": "machte mit",
+      "translation": "to participate",
+      "example": "Willst du bei dem Projekt (Dat) mitmachen?"
     },
     {
       "verb": "klappen",
-      "structure": "mit etw (Dat) klappen"
+      "structure": "mit etw (Dat) klappen",
+      "perfekt": "hat geklappt",
+      "praeteritum": "klappte",
+      "translation": "to work out",
+      "example": "Es klappt mit dem Umzug (Dat) nicht."
     },
     {
       "verb": "verbieten",
-      "structure": "jdm (Dat) etw (Akk) verbieten"
+      "structure": "jdm (Dat) etw (Akk) verbieten",
+      "perfekt": "hat verboten",
+      "praeteritum": "verbot",
+      "translation": "to forbid",
+      "example": "Die Eltern verboten dem Kind (Dat) Süßigkeiten (Akk)."
     },
     {
       "verb": "verspäten",
-      "structure": "sich (Akk) verspäten"
+      "structure": "sich (Akk) verspäten",
+      "perfekt": "hat verspätet",
+      "praeteritum": "verspätete",
+      "translation": "to be late",
+      "example": "Der Zug verspätet sich heute wieder."
     },
     {
       "verb": "reden",
-      "structure": "über jdn/etw (Akk) reden"
+      "structure": "über jdn/etw (Akk) reden",
+      "perfekt": "hat geredet",
+      "praeteritum": "redete",
+      "translation": "to talk",
+      "example": "Alle reden über den Skandal (Akk)."
     },
     {
       "verb": "korrigieren",
-      "structure": "etw (Akk) korrigieren"
+      "structure": "etw (Akk) korrigieren",
+      "perfekt": "hat korrigiert",
+      "praeteritum": "korrigierte",
+      "translation": "to correct",
+      "example": "Der Lehrer korrigiert die Fehler (Akk)."
     },
     {
       "verb": "träumen",
-      "structure": "von jdm/etw (Dat) träumen"
+      "structure": "von jdm/etw (Dat) träumen",
+      "perfekt": "hat geträumt",
+      "praeteritum": "träumte",
+      "translation": "to dream",
+      "example": "Sie träumt von einer Reise (Dat)."
     },
     {
       "verb": "verantworten",
-      "structure": "sich (Akk) für etw (Akk) verantworten"
+      "structure": "sich (Akk) für etw (Akk) verantworten",
+      "perfekt": "hat verantwortet",
+      "praeteritum": "verantwortete",
+      "translation": "to be responsible for",
+      "example": "Er muss sich für den Fehler (Akk) verantworten."
     },
     {
       "verb": "protestieren",
-      "structure": "gegen etw (Akk) protestieren"
+      "structure": "gegen etw (Akk) protestieren",
+      "perfekt": "hat protestiert",
+      "praeteritum": "protestierte",
+      "translation": "to protest",
+      "example": "Die Bürger protestieren gegen die Entscheidung (Akk)."
     },
     {
       "verb": "erfordern",
-      "structure": "etw (Akk) erfordern"
+      "structure": "etw (Akk) erfordern",
+      "perfekt": "hat erfordert",
+      "praeteritum": "erforderte",
+      "translation": "to require",
+      "example": "Die Aufgabe erfordert Geduld (Akk)."
     },
     {
       "verb": "nehmen",
-      "structure": "etw (Akk) nehmen"
+      "structure": "etw (Akk) nehmen",
+      "perfekt": "hat genommen",
+      "praeteritum": "nahm",
+      "translation": "to take",
+      "example": "Ich nehme den Schlüssel (Akk) mit."
     },
     {
       "verb": "bekommen",
-      "structure": "etw (Akk) bekommen"
+      "structure": "etw (Akk) bekommen",
+      "perfekt": "hat bekommen",
+      "praeteritum": "bekam",
+      "translation": "to receive",
+      "example": "Sie bekam ein Geschenk (Akk)."
     },
     {
       "verb": "kündigen",
-      "structure": "jdm (Dat) kündigen"
+      "structure": "jdm (Dat) kündigen",
+      "perfekt": "hat gekündigt",
+      "praeteritum": "kündigte",
+      "translation": "to quit, give notice",
+      "example": "Er kündigte seinem Chef (Dat)."
     },
     {
       "verb": "enttäuschen",
-      "structure": "jdn (Akk) enttäuschen"
+      "structure": "jdn (Akk) enttäuschen",
+      "perfekt": "hat enttäuscht",
+      "praeteritum": "enttäuschte",
+      "translation": "to disappoint",
+      "example": "Das Ergebnis enttäuschte die Fans (Akk)."
     },
     {
       "verb": "gelingen",
-      "structure": "jdm (Dat) etw (Akk) gelingen"
+      "structure": "jdm (Dat) etw (Akk) gelingen",
+      "perfekt": "ist gelungen",
+      "praeteritum": "gelang",
+      "translation": "to succeed",
+      "example": "Ihm (Dat) gelang der Sprung (Akk)."
     },
     {
       "verb": "sparen",
-      "structure": "etw (Akk) sparen"
+      "structure": "etw (Akk) sparen",
+      "perfekt": "hat gespart",
+      "praeteritum": "sparte",
+      "translation": "to save",
+      "example": "Wir sparen Geld (Akk) für ein Haus."
     },
     {
       "verb": "verlassen",
-      "structure": "jdn/etw (Akk) verlassen"
+      "structure": "jdn/etw (Akk) verlassen",
+      "perfekt": "hat verlassen",
+      "praeteritum": "verließ",
+      "translation": "to leave",
+      "example": "Sie verließ das Gebäude (Akk) schnell."
     },
     {
       "verb": "herausfordern",
-      "structure": "jdn (Akk) herausfordern"
+      "structure": "jdn (Akk) herausfordern",
+      "perfekt": "hat herausgefordert",
+      "praeteritum": "forderte heraus",
+      "translation": "to challenge",
+      "example": "Er forderte den Champion (Akk) heraus."
     },
     {
       "verb": "weitergeben",
-      "structure": "etw (Akk) weitergeben"
+      "structure": "etw (Akk) weitergeben",
+      "perfekt": "hat weitergegeben",
+      "praeteritum": "gab weiter",
+      "translation": "to pass on",
+      "example": "Gib die Information (Akk) bitte weiter."
     },
     {
       "verb": "bedanken",
-      "structure": "sich (Akk) bei jdm (Dat) bedanken"
+      "structure": "sich (Akk) bei jdm (Dat) bedanken",
+      "perfekt": "hat bedankt",
+      "praeteritum": "bedankte",
+      "translation": "to thank",
+      "example": "Ich bedanke mich bei dir (Dat) für die Hilfe."
     },
     {
       "verb": "unterhalten",
-      "structure": "sich (Akk) mit jdm (Dat) unterhalten"
+      "structure": "sich (Akk) mit jdm (Dat) unterhalten",
+      "perfekt": "hat unterhalten",
+      "praeteritum": "unterhielt",
+      "translation": "to converse",
+      "example": "Wir unterhielten uns mit den Nachbarn (Dat)."
     },
     {
       "verb": "handeln",
-      "structure": "mit etw (Dat) handeln"
+      "structure": "mit etw (Dat) handeln",
+      "perfekt": "hat gehandelt",
+      "praeteritum": "handelte",
+      "translation": "to trade",
+      "example": "Das Unternehmen handelt mit Maschinen (Dat)."
     },
     {
       "verb": "organisieren",
-      "structure": "etw (Akk) organisieren"
+      "structure": "etw (Akk) organisieren",
+      "perfekt": "hat organisiert",
+      "praeteritum": "organisierte",
+      "translation": "to organize",
+      "example": "Sie organisiert die Veranstaltung (Akk)."
     },
     {
       "verb": "fassen",
-      "structure": "etw (Akk) fassen"
+      "structure": "etw (Akk) fassen",
+      "perfekt": "hat gefasst",
+      "praeteritum": "fasste",
+      "translation": "to grasp, contain",
+      "example": "Der Tank fasst 100 Liter (Akk)."
     },
     {
       "verb": "bieten",
-      "structure": "jdm (Dat) etw (Akk) bieten"
+      "structure": "jdm (Dat) etw (Akk) bieten",
+      "perfekt": "hat geboten",
+      "praeteritum": "bot",
+      "translation": "to offer",
+      "example": "Das Hotel bietet den Gästen (Dat) viele Services (Akk)."
     },
     {
       "verb": "vermeiden",
-      "structure": "etw (Akk) vermeiden"
+      "structure": "etw (Akk) vermeiden",
+      "perfekt": "hat vermieden",
+      "praeteritum": "vermied",
+      "translation": "to avoid",
+      "example": "Ich vermeide Stress (Akk) wo möglich."
     },
     {
       "verb": "ausnutzen",
-      "structure": "jdn/etw (Akk) ausnutzen"
+      "structure": "jdn/etw (Akk) ausnutzen",
+      "perfekt": "hat ausgenutzt",
+      "praeteritum": "nutzte aus",
+      "translation": "to exploit",
+      "example": "Er nutzte ihre Gutmütigkeit (Akk) aus."
     },
     {
       "verb": "genießen",
-      "structure": "etw (Akk) genießen"
+      "structure": "etw (Akk) genießen",
+      "perfekt": "hat genossen",
+      "praeteritum": "genoss",
+      "translation": "to enjoy",
+      "example": "Wir genießen den Urlaub (Akk)."
     },
     {
       "verb": "fordern",
-      "structure": "etw (Akk) fordern"
+      "structure": "etw (Akk) fordern",
+      "perfekt": "hat gefordert",
+      "praeteritum": "forderte",
+      "translation": "to demand",
+      "example": "Die Arbeiter fordern höhere Löhne (Akk)."
     },
     {
       "verb": "interessieren",
-      "structure": "sich (Akk) für etw (Akk) interessieren"
+      "structure": "sich (Akk) für etw (Akk) interessieren",
+      "perfekt": "hat interessiert",
+      "praeteritum": "interessierte",
+      "translation": "to be interested",
+      "example": "Er interessiert sich für Politik (Akk)."
     },
     {
       "verb": "mitbringen",
-      "structure": "etw (Akk) mitbringen"
+      "structure": "etw (Akk) mitbringen",
+      "perfekt": "hat mitgebracht",
+      "praeteritum": "brachte mit",
+      "translation": "to bring along",
+      "example": "Bringst du etwas zu trinken (Akk) mit?"
     },
     {
       "verb": "waschen",
-      "structure": "etw (Akk) waschen"
+      "structure": "etw (Akk) waschen",
+      "perfekt": "hat gewaschen",
+      "praeteritum": "wusch",
+      "translation": "to wash",
+      "example": "Sie wäscht die Wäsche (Akk)."
     },
     {
       "verb": "malen",
-      "structure": "etw (Akk) malen"
+      "structure": "etw (Akk) malen",
+      "perfekt": "hat gemalt",
+      "praeteritum": "malte",
+      "translation": "to paint",
+      "example": "Der Künstler malt ein Bild (Akk)."
     },
     {
       "verb": "antworten",
-      "structure": "jdm (Dat) antworten"
+      "structure": "jdm (Dat) antworten",
+      "perfekt": "hat geantwortet",
+      "praeteritum": "antwortete",
+      "translation": "to answer",
+      "example": "Sie antwortete dem Lehrer (Dat) nicht."
     },
     {
       "verb": "ersetzen",
-      "structure": "jdn/etw (Akk) ersetzen"
+      "structure": "jdn/etw (Akk) ersetzen",
+      "perfekt": "hat ersetzt",
+      "praeteritum": "ersetzte",
+      "translation": "to replace",
+      "example": "Die Firma ersetzt den defekten Computer (Akk)."
     },
     {
       "verb": "gelten",
-      "structure": "für jdn/etw (Akk) gelten"
+      "structure": "für jdn/etw (Akk) gelten",
+      "perfekt": "hat gegolten",
+      "praeteritum": "galt",
+      "translation": "to apply, be valid",
+      "example": "Das Gesetz gilt für alle Bürger (Akk)."
     },
     {
       "verb": "glauben",
-      "structure": "jdm (Dat) glauben"
+      "structure": "jdm (Dat) glauben",
+      "perfekt": "hat geglaubt",
+      "praeteritum": "glaubte",
+      "translation": "to believe",
+      "example": "Ich glaube dir (Dat) nicht."
     },
     {
       "verb": "ablehnen",
-      "structure": "etw (Akk) ablehnen"
+      "structure": "etw (Akk) ablehnen",
+      "perfekt": "hat abgelehnt",
+      "praeteritum": "lehnte ab",
+      "translation": "to decline, refuse",
+      "example": "Er lehnte das Angebot (Akk) ab."
     },
     {
       "verb": "prüfen",
-      "structure": "etw (Akk) prüfen"
+      "structure": "etw (Akk) prüfen",
+      "perfekt": "hat geprüft",
+      "praeteritum": "prüfte",
+      "translation": "to check, examine",
+      "example": "Die Behörde prüft die Unterlagen (Akk)."
     },
     {
       "verb": "entwickeln",
-      "structure": "etw (Akk) entwickeln"
+      "structure": "etw (Akk) entwickeln",
+      "perfekt": "hat entwickelt",
+      "praeteritum": "entwickelte",
+      "translation": "to develop",
+      "example": "Das Team entwickelt eine neue Software (Akk)."
     },
     {
       "verb": "beantragen",
-      "structure": "etw (Akk) beantragen"
+      "structure": "etw (Akk) beantragen",
+      "perfekt": "hat beantragt",
+      "praeteritum": "beantragte",
+      "translation": "to apply for",
+      "example": "Sie beantragt ein Visum (Akk)."
     },
     {
       "verb": "behindern",
-      "structure": "jdn (Akk) behindern"
+      "structure": "jdn (Akk) behindern",
+      "perfekt": "hat behindert",
+      "praeteritum": "behinderte",
+      "translation": "to hinder",
+      "example": "Das Auto behindert den Verkehr (Akk)."
     },
     {
       "verb": "erstellen",
-      "structure": "etw (Akk) erstellen"
+      "structure": "etw (Akk) erstellen",
+      "perfekt": "hat erstellt",
+      "praeteritum": "erstellte",
+      "translation": "to create",
+      "example": "Ich erstelle eine Liste (Akk)."
     },
     {
       "verb": "verwirren",
-      "structure": "jdn (Akk) verwirren"
+      "structure": "jdn (Akk) verwirren",
+      "perfekt": "hat verwirrt",
+      "praeteritum": "verwirrte",
+      "translation": "to confuse",
+      "example": "Die widersprüchlichen Aussagen verwirrten mich (Akk)."
     },
     {
       "verb": "amüsieren",
-      "structure": "sich (Akk) amüsieren"
+      "structure": "sich (Akk) amüsieren",
+      "perfekt": "hat amüsiert",
+      "praeteritum": "amüsierte",
+      "translation": "to amuse oneself",
+      "example": "Die Kinder amüsieren sich auf der Party."
     },
     {
       "verb": "beinhalten",
-      "structure": "etw (Akk) beinhalten"
+      "structure": "etw (Akk) beinhalten",
+      "perfekt": "hat beinhaltet",
+      "praeteritum": "beinhaltete",
+      "translation": "to contain, include",
+      "example": "Das Paket beinhaltet wichtige Dokumente (Akk)."
     },
     {
       "verb": "enthalten",
-      "structure": "etw (Akk) enthalten"
+      "structure": "etw (Akk) enthalten",
+      "perfekt": "hat enthalten",
+      "praeteritum": "enthielt",
+      "translation": "to contain",
+      "example": "Die Lösung enthält Alkohol (Akk)."
     }
   ],
   "3": [
     {
       "verb": "verhandeln",
-      "structure": "über etw (Akk) verhandeln"
+      "structure": "über etw (Akk) verhandeln",
+      "perfekt": "hat verhandelt",
+      "praeteritum": "verhandelte",
+      "translation": "to negotiate",
+      "example": "Die Länder verhandeln über den Vertrag (Akk)."
     },
     {
       "verb": "beeinflussen",
-      "structure": "jdn/etw (Akk) beeinflussen"
+      "structure": "jdn/etw (Akk) beeinflussen",
+      "perfekt": "hat beeinflusst",
+      "praeteritum": "beeinflusste",
+      "translation": "to influence",
+      "example": "Die Medien beeinflussen die öffentliche Meinung (Akk)."
     },
     {
       "verb": "rechnen",
-      "structure": "mit etw (Dat) rechnen"
+      "structure": "mit etw (Dat) rechnen",
+      "perfekt": "hat gerechnet",
+      "praeteritum": "rechnete",
+      "translation": "to calculate, expect",
+      "example": "Wir rechnen mit Problemen (Dat)."
     },
     {
       "verb": "schauen",
-      "structure": "auf etw (Akk) schauen"
+      "structure": "auf etw (Akk) schauen",
+      "perfekt": "hat geschaut",
+      "praeteritum": "schaute",
+      "translation": "to look",
+      "example": "Die Kinder schauen auf die Uhr (Akk)."
     },
     {
       "verb": "befassen",
-      "structure": "sich (Akk) mit etw (Dat) befassen"
+      "structure": "sich (Akk) mit etw (Dat) befassen",
+      "perfekt": "hat befasst",
+      "praeteritum": "befasste",
+      "translation": "to deal with",
+      "example": "Der Ausschuss befasst sich mit dem Thema (Dat)."
     },
     {
       "verb": "rufen",
-      "structure": "jdn (Akk) rufen"
+      "structure": "jdn (Akk) rufen",
+      "perfekt": "hat gerufen",
+      "praeteritum": "rief",
+      "translation": "to call",
+      "example": "Die Mutter ruft das Kind (Akk)."
     },
     {
       "verb": "reduzieren",
-      "structure": "etw (Akk) reduzieren"
+      "structure": "etw (Akk) reduzieren",
+      "perfekt": "hat reduziert",
+      "praeteritum": "reduzierte",
+      "translation": "to reduce",
+      "example": "Das Unternehmen reduziert die Kosten (Akk)."
     },
     {
       "verb": "verdienen",
-      "structure": "etw (Akk) verdienen"
+      "structure": "etw (Akk) verdienen",
+      "perfekt": "hat verdient",
+      "praeteritum": "verdiente",
+      "translation": "to earn",
+      "example": "Sie verdient gutes Geld (Akk)."
     },
     {
       "verb": "ausgeben",
-      "structure": "etw (Akk) ausgeben"
+      "structure": "etw (Akk) ausgeben",
+      "perfekt": "hat ausgegeben",
+      "praeteritum": "gab aus",
+      "translation": "to spend",
+      "example": "Er gibt viel Geld (Akk) für Bücher aus."
     },
     {
       "verb": "ankommen",
-      "structure": "an einem Ort (Dat) ankommen"
+      "structure": "an einem Ort (Dat) ankommen",
+      "perfekt": "ist angekommen",
+      "praeteritum": "kam an",
+      "translation": "to arrive",
+      "example": "Wir kommen am Bahnhof (Dat) an."
     },
     {
       "verb": "sammeln",
-      "structure": "etw (Akk) sammeln"
+      "structure": "etw (Akk) sammeln",
+      "perfekt": "hat gesammelt",
+      "praeteritum": "sammelte",
+      "translation": "to collect",
+      "example": "Er sammelt Briefmarken (Akk)."
     },
     {
       "verb": "wechseln",
-      "structure": "etw (Akk) wechseln"
+      "structure": "etw (Akk) wechseln",
+      "perfekt": "hat gewechselt",
+      "praeteritum": "wechselte",
+      "translation": "to change",
+      "example": "Sie wechselt die Reifen (Akk)."
     },
     {
       "verb": "aufwachen",
-      "structure": "aus etw (Dat) aufwachen"
+      "structure": "aus etw (Dat) aufwachen",
+      "perfekt": "ist aufgewacht",
+      "praeteritum": "wachte auf",
+      "translation": "to wake up",
+      "example": "Ich wache aus einem Albtraum (Dat) auf."
     },
     {
       "verb": "übrigbleiben",
-      "structure": "von etw (Dat) übrigbleiben"
+      "structure": "von etw (Dat) übrigbleiben",
+      "perfekt": "ist übriggeblieben",
+      "praeteritum": "blieb übrig",
+      "translation": "to remain",
+      "example": "Von dem Essen (Dat) ist nichts übriggeblieben."
     },
     {
       "verb": "Sorgen machen",
-      "structure": "sich (Akk) Sorgen machen"
+      "structure": "sich (Akk) Sorgen machen",
+      "perfekt": "hat sich Sorgen gemacht",
+      "praeteritum": "machte sich Sorgen",
+      "translation": "to worry",
+      "example": "Sie macht sich Sorgen um ihre Tochter."
     },
     {
       "verb": "verzichten",
-      "structure": "auf etw (Akk) verzichten"
+      "structure": "auf etw (Akk) verzichten",
+      "perfekt": "hat verzichtet",
+      "praeteritum": "verzichtete",
+      "translation": "to do without",
+      "example": "Ich verzichte auf Zucker (Akk) in meinem Tee."
     },
     {
       "verb": "beruhigen",
-      "structure": "jdn (Akk) beruhigen"
+      "structure": "jdn (Akk) beruhigen",
+      "perfekt": "hat beruhigt",
+      "praeteritum": "beruhigte",
+      "translation": "to calm",
+      "example": "Die Mutter beruhigt das weinende Kind (Akk)."
     },
     {
       "verb": "anschauen",
-      "structure": "sich (Akk) etw (Akk) anschauen"
+      "structure": "sich (Akk) etw (Akk) anschauen",
+      "perfekt": "hat angeschaut",
+      "praeteritum": "schaute an",
+      "translation": "to look at",
+      "example": "Wir schauen uns den Film (Akk) an."
     },
     {
       "verb": "festlegen",
-      "structure": "sich (Akk) auf etw (Akk) festlegen"
+      "structure": "sich (Akk) auf etw (Akk) festlegen",
+      "perfekt": "hat festgelegt",
+      "praeteritum": "legte fest",
+      "translation": "to commit to",
+      "example": "Er legt sich auf einen Termin (Akk) fest."
     },
     {
       "verb": "anbieten",
-      "structure": "jdm (Dat) etw (Akk) anbieten"
+      "structure": "jdm (Dat) etw (Akk) anbieten",
+      "perfekt": "hat angeboten",
+      "praeteritum": "bot an",
+      "translation": "to offer",
+      "example": "Sie bot ihm (Dat) Hilfe (Akk) an."
     },
     {
       "verb": "annehmen",
-      "structure": "etw (Akk) annehmen"
+      "structure": "etw (Akk) annehmen",
+      "perfekt": "hat angenommen",
+      "praeteritum": "nahm an",
+      "translation": "to accept",
+      "example": "Ich nehme das Geschenk (Akk) an."
     },
     {
       "verb": "vorenthalten",
-      "structure": "jdm (Dat) etw (Akk) vorenthalten"
+      "structure": "jdm (Dat) etw (Akk) vorenthalten",
+      "perfekt": "hat vorenthalten",
+      "praeteritum": "enthielt vor",
+      "translation": "to withhold",
+      "example": "Sie enthielt ihm (Dat) die Wahrheit (Akk) vor."
     },
     {
       "verb": "berücksichtigen",
-      "structure": "etw (Akk) berücksichtigen"
+      "structure": "etw (Akk) berücksichtigen",
+      "perfekt": "hat berücksichtigt",
+      "praeteritum": "berücksichtigte",
+      "translation": "to consider",
+      "example": "Der Richter berücksichtigt alle Fakten (Akk)."
     },
     {
       "verb": "danken",
-      "structure": "jdm (Dat) danken"
+      "structure": "jdm (Dat) danken",
+      "perfekt": "hat gedankt",
+      "praeteritum": "dankte",
+      "translation": "to thank",
+      "example": "Ich danke dir (Dat) für deine Hilfe."
     },
     {
       "verb": "senden",
-      "structure": "etw (Akk) senden"
+      "structure": "etw (Akk) senden",
+      "perfekt": "hat gesendet",
+      "praeteritum": "sendete",
+      "translation": "to send",
+      "example": "Wir senden das Paket (Akk) morgen."
     },
     {
       "verb": "fliegen",
-      "structure": "an einen Ort (Akk) fliegen"
+      "structure": "an einen Ort (Akk) fliegen",
+      "perfekt": "ist geflogen",
+      "praeteritum": "flog",
+      "translation": "to fly",
+      "example": "Die Vögel fliegen in den Süden (Akk)."
     },
     {
       "verb": "brauchen",
-      "structure": "etw (Akk) brauchen"
+      "structure": "etw (Akk) brauchen",
+      "perfekt": "hat gebraucht",
+      "praeteritum": "brauchte",
+      "translation": "to need",
+      "example": "Ich brauche Hilfe (Akk)."
     },
     {
       "verb": "bestrafen",
-      "structure": "jdn (Akk) bestrafen"
+      "structure": "jdn (Akk) bestrafen",
+      "perfekt": "hat bestraft",
+      "praeteritum": "bestrafte",
+      "translation": "to punish",
+      "example": "Der Lehrer bestraft den Schüler (Akk)."
     },
     {
       "verb": "wiegen",
-      "structure": "etw (Akk) wiegen"
+      "structure": "etw (Akk) wiegen",
+      "perfekt": "hat gewogen",
+      "praeteritum": "wog",
+      "translation": "to weigh",
+      "example": "Die Verkäuferin wiegt das Obst (Akk)."
     },
     {
       "verb": "versorgen",
-      "structure": "jdn (Akk) mit etw (Dat) versorgen"
+      "structure": "jdn (Akk) mit etw (Dat) versorgen",
+      "perfekt": "hat versorgt",
+      "praeteritum": "versorgte",
+      "translation": "to provide",
+      "example": "Die Organisation versorgt die Opfer (Akk) mit Lebensmitteln (Dat)."
     },
     {
       "verb": "raten",
-      "structure": "jdm (Dat) raten"
+      "structure": "jdm (Dat) raten",
+      "perfekt": "hat geraten",
+      "praeteritum": "riet",
+      "translation": "to advise",
+      "example": "Der Arzt riet dem Patienten (Dat) zur Ruhe."
     },
     {
       "verb": "aufhalten",
-      "structure": "jdn (Akk) aufhalten"
+      "structure": "jdn (Akk) aufhalten",
+      "perfekt": "hat aufgehalten",
+      "praeteritum": "hielt auf",
+      "translation": "to delay",
+      "example": "Der Stau hält uns (Akk) auf."
     },
     {
       "verb": "herstellen",
-      "structure": "etw (Akk) herstellen"
+      "structure": "etw (Akk) herstellen",
+      "perfekt": "hat hergestellt",
+      "praeteritum": "stellte her",
+      "translation": "to manufacture",
+      "example": "Die Firma stellt Möbel (Akk) her."
     },
     {
       "verb": "vorbereiten",
-      "structure": "sich (Akk) auf etw (Akk) vorbereiten"
+      "structure": "sich (Akk) auf etw (Akk) vorbereiten",
+      "perfekt": "hat vorbereitet",
+      "praeteritum": "bereitete vor",
+      "translation": "to prepare",
+      "example": "Ich bereite mich auf die Prüfung (Akk) vor."
     },
     {
       "verb": "anfangen",
-      "structure": "mit etw (Dat) anfangen"
+      "structure": "mit etw (Dat) anfangen",
+      "perfekt": "hat angefangen",
+      "praeteritum": "fing an",
+      "translation": "to begin",
+      "example": "Wann fangen wir mit der Arbeit (Dat) an?"
     },
     {
       "verb": "entscheiden",
-      "structure": "sich (Akk) für etw (Akk) entscheiden"
+      "structure": "sich (Akk) für etw (Akk) entscheiden",
+      "perfekt": "hat entschieden",
+      "praeteritum": "entschied",
+      "translation": "to decide",
+      "example": "Sie entschied sich für das blaue Kleid (Akk)."
     },
     {
       "verb": "erlauben",
-      "structure": "jdm (Dat) etw (Akk) erlauben"
+      "structure": "jdm (Dat) etw (Akk) erlauben",
+      "perfekt": "hat erlaubt",
+      "praeteritum": "erlaubte",
+      "translation": "to allow",
+      "example": "Meine Eltern erlauben mir (Dat) die Party (Akk)."
     },
     {
       "verb": "erleben",
-      "structure": "etw (Akk) erleben"
+      "structure": "etw (Akk) erleben",
+      "perfekt": "hat erlebt",
+      "praeteritum": "erlebte",
+      "translation": "to experience",
+      "example": "Wir erleben viele Abenteuer (Akk)."
     },
     {
       "verb": "erreichen",
-      "structure": "etw (Akk) erreichen"
+      "structure": "etw (Akk) erreichen",
+      "perfekt": "hat erreicht",
+      "praeteritum": "erreichte",
+      "translation": "to achieve, reach",
+      "example": "Er erreicht sein Ziel (Akk)."
     },
     {
       "verb": "hinweisen",
-      "structure": "auf etw (Akk) hinweisen"
+      "structure": "auf etw (Akk) hinweisen",
+      "perfekt": "hat hingewiesen",
+      "praeteritum": "wies hin",
+      "translation": "to point out",
+      "example": "Der Lehrer weist auf den Fehler (Akk) hin."
     },
     {
       "verb": "versuchen",
-      "structure": "etw (Akk) versuchen"
+      "structure": "etw (Akk) versuchen",
+      "perfekt": "hat versucht",
+      "praeteritum": "versuchte",
+      "translation": "to try",
+      "example": "Ich versuche mein Glück (Akk)."
     },
     {
       "verb": "abschaffen",
-      "structure": "etw (Akk) abschaffen"
+      "structure": "etw (Akk) abschaffen",
+      "perfekt": "hat abgeschafft",
+      "praeteritum": "schaffte ab",
+      "translation": "to abolish",
+      "example": "Das Land schaffte die Todesstrafe (Akk) ab."
     },
     {
       "verb": "aufpassen",
-      "structure": "auf jdn/etw (Akk) aufpassen"
+      "structure": "auf jdn/etw (Akk) aufpassen",
+      "perfekt": "hat aufgepasst",
+      "praeteritum": "passte auf",
+      "translation": "to watch over",
+      "example": "Pass auf deine Tasche (Akk) auf!"
     },
     {
       "verb": "erinnern",
-      "structure": "sich (Akk) an jdn/etw (Akk) erinnern"
+      "structure": "sich (Akk) an jdn/etw (Akk) erinnern",
+      "perfekt": "hat erinnert",
+      "praeteritum": "erinnerte",
+      "translation": "to remember",
+      "example": "Ich erinnere mich an unseren Urlaub (Akk)."
     },
     {
       "verb": "verabschieden",
-      "structure": "sich (Akk) von jdm (Dat) verabschieden"
+      "structure": "sich (Akk) von jdm (Dat) verabschieden",
+      "perfekt": "hat verabschiedet",
+      "praeteritum": "verabschiedete",
+      "translation": "to say goodbye",
+      "example": "Sie verabschiedete sich von ihren Kollegen (Dat)."
     },
     {
       "verb": "beeilen",
-      "structure": "sich (Akk) beeilen"
+      "structure": "sich (Akk) beeilen",
+      "perfekt": "hat beeilt",
+      "praeteritum": "beeilte",
+      "translation": "to hurry",
+      "example": "Wir müssen uns beeilen!"
     },
     {
       "verb": "genehmigen",
-      "structure": "etw (Akk) genehmigen"
+      "structure": "etw (Akk) genehmigen",
+      "perfekt": "hat genehmigt",
+      "praeteritum": "genehmigte",
+      "translation": "to approve",
+      "example": "Die Behörde genehmigt den Bau (Akk)."
     },
     {
       "verb": "nähern",
-      "structure": "sich (Akk) jdm/etw (Dat) nähern"
+      "structure": "sich (Akk) jdm/etw (Dat) nähern",
+      "perfekt": "hat genähert",
+      "praeteritum": "näherte",
+      "translation": "to approach",
+      "example": "Das Auto nähert sich der Kreuzung (Dat)."
     },
     {
       "verb": "fördern",
-      "structure": "jdn/etw (Akk) fördern"
+      "structure": "jdn/etw (Akk) fördern",
+      "perfekt": "hat gefördert",
+      "praeteritum": "förderte",
+      "translation": "to promote",
+      "example": "Die Stiftung fördert junge Künstler (Akk)."
     },
     {
       "verb": "trainieren",
-      "structure": "etw (Akk) trainieren"
+      "structure": "etw (Akk) trainieren",
+      "perfekt": "hat trainiert",
+      "praeteritum": "trainierte",
+      "translation": "to train",
+      "example": "Die Mannschaft trainiert neue Techniken (Akk)."
     },
     {
       "verb": "verhindern",
-      "structure": "etw (Akk) verhindern"
+      "structure": "etw (Akk) verhindern",
+      "perfekt": "hat verhindert",
+      "praeteritum": "verhinderte",
+      "translation": "to prevent",
+      "example": "Die Polizei verhinderte den Einbruch (Akk)."
     },
     {
       "verb": "verteidigen",
-      "structure": "jdn/etw (Akk) verteidigen"
+      "structure": "jdn/etw (Akk) verteidigen",
+      "perfekt": "hat verteidigt",
+      "praeteritum": "verteidigte",
+      "translation": "to defend",
+      "example": "Der Anwalt verteidigt den Angeklagten (Akk)."
     },
     {
       "verb": "überwiegen",
-      "structure": "etw (Akk) überwiegen"
+      "structure": "etw (Akk) überwiegen",
+      "perfekt": "hat überwogen",
+      "praeteritum": "überwog",
+      "translation": "to predominate",
+      "example": "Die Vorteile (Akk) überwiegen deutlich."
     },
     {
       "verb": "verschwenden",
-      "structure": "etw (Akk) verschwenden"
+      "structure": "etw (Akk) verschwenden",
+      "perfekt": "hat verschwendet",
+      "praeteritum": "verschwendete",
+      "translation": "to waste",
+      "example": "Er verschwendet keine Zeit (Akk)."
     },
     {
       "verb": "anerkennen",
-      "structure": "etw (Akk) anerkennen"
+      "structure": "etw (Akk) anerkennen",
+      "perfekt": "hat anerkannt",
+      "praeteritum": "erkannte an",
+      "translation": "to recognize",
+      "example": "Der Staat erkennt die Leistung (Akk) an."
     },
     {
       "verb": "beschimpfen",
-      "structure": "jdn (Akk) beschimpfen"
+      "structure": "jdn (Akk) beschimpfen",
+      "perfekt": "hat beschimpft",
+      "praeteritum": "beschimpfte",
+      "translation": "to insult",
+      "example": "Der Trainer beschimpfte den Schiedsrichter (Akk)."
     },
     {
       "verb": "konkretisieren",
-      "structure": "etw (Akk) konkretisieren"
+      "structure": "etw (Akk) konkretisieren",
+      "perfekt": "hat konkretisiert",
+      "praeteritum": "konkretisierte",
+      "translation": "to specify",
+      "example": "Der Plan konkretisiert die Maßnahmen (Akk)."
     }
   ],
   "4": [
     {
       "verb": "schützen",
-      "structure": "jdn/etw (Akk) schützen"
+      "structure": "jdn/etw (Akk) schützen",
+      "perfekt": "hat geschützt",
+      "praeteritum": "schützte",
+      "translation": "to protect",
+      "example": "Die Polizei schützt die Bürger (Akk)."
     },
     {
       "verb": "zunehmen",
-      "structure": "an etw (Dat) zunehmen"
+      "structure": "an etw (Dat) zunehmen",
+      "perfekt": "hat zugenommen",
+      "praeteritum": "nahm zu",
+      "translation": "to increase",
+      "example": "Das Interesse an dem Thema (Dat) nimmt zu."
     },
     {
       "verb": "bewerben",
-      "structure": "sich (Akk) um etw (Akk) bewerben"
+      "structure": "sich (Akk) um etw (Akk) bewerben",
+      "perfekt": "hat beworben",
+      "praeteritum": "bewarb",
+      "translation": "to apply for",
+      "example": "Er bewirbt sich um die Stelle (Akk)."
     },
     {
       "verb": "auffallen",
-      "structure": "jdm (Dat) auffallen"
+      "structure": "jdm (Dat) auffallen",
+      "perfekt": "ist aufgefallen",
+      "praeteritum": "fiel auf",
+      "translation": "to stand out",
+      "example": "Sein Talent (Nom) fiel dem Lehrer (Dat) auf."
     },
     {
       "verb": "reisen",
-      "structure": "an einen Ort (Akk) reisen"
+      "structure": "an einen Ort (Akk) reisen",
+      "perfekt": "ist gereist",
+      "praeteritum": "reiste",
+      "translation": "to travel",
+      "example": "Wir reisen nach Italien (Akk)."
     },
     {
       "verb": "lassen",
-      "structure": "etw (Akk) lassen"
+      "structure": "etw (Akk) lassen",
+      "perfekt": "hat gelassen",
+      "praeteritum": "ließ",
+      "translation": "to let, leave",
+      "example": "Lass mich (Akk) in Ruhe!"
     },
     {
       "verb": "kämpfen",
-      "structure": "für/gegen etw (Akk) kämpfen"
+      "structure": "für/gegen etw (Akk) kämpfen",
+      "perfekt": "hat gekämpft",
+      "praeteritum": "kämpfte",
+      "translation": "to fight",
+      "example": "Sie kämpft für ihre Rechte (Akk)."
     },
     {
       "verb": "aufräumen",
-      "structure": "etw (Akk) aufräumen"
+      "structure": "etw (Akk) aufräumen",
+      "perfekt": "hat aufgeräumt",
+      "praeteritum": "räumte auf",
+      "translation": "to clean up",
+      "example": "Die Kinder räumen ihr Zimmer (Akk) auf."
     },
     {
       "verb": "ändern",
-      "structure": "etw (Akk) ändern"
+      "structure": "etw (Akk) ändern",
+      "perfekt": "hat geändert",
+      "praeteritum": "änderte",
+      "translation": "to change",
+      "example": "Kannst du die Adresse (Akk) ändern?"
     },
     {
       "verb": "fangen",
-      "structure": "etw (Akk) fangen"
+      "structure": "etw (Akk) fangen",
+      "perfekt": "hat gefangen",
+      "praeteritum": "fing",
+      "translation": "to catch",
+      "example": "Der Fischer fängt einen großen Fisch (Akk)."
     },
     {
       "verb": "verbessern",
-      "structure": "etw (Akk) verbessern"
+      "structure": "etw (Akk) verbessern",
+      "perfekt": "hat verbessert",
+      "praeteritum": "verbesserte",
+      "translation": "to improve",
+      "example": "Sie verbessert ihre Deutschkenntnisse (Akk)."
     },
     {
       "verb": "warnen",
-      "structure": "jdn (Akk) vor etw (Dat) warnen"
+      "structure": "jdn (Akk) vor etw (Dat) warnen",
+      "perfekt": "hat gewarnt",
+      "praeteritum": "warnte",
+      "translation": "to warn",
+      "example": "Ich warne dich (Akk) vor der Gefahr (Dat)."
     },
     {
       "verb": "dazwischenkommen",
-      "structure": "jdm (Dat) dazwischenkommen"
+      "structure": "jdm (Dat) dazwischenkommen",
+      "perfekt": "ist dazwischengekommen",
+      "praeteritum": "kam dazwischen",
+      "translation": "to interfere",
+      "example": "Ein Unfall kam uns (Dat) dazwischen."
     },
     {
       "verb": "scheitern",
-      "structure": "an etw (Dat) scheitern"
+      "structure": "an etw (Dat) scheitern",
+      "perfekt": "ist gescheitert",
+      "praeteritum": "scheiterte",
+      "translation": "to fail",
+      "example": "Das Projekt scheiterte an der Finanzierung (Dat)."
     },
     {
       "verb": "akzeptieren",
-      "structure": "etw (Akk) akzeptieren"
+      "structure": "etw (Akk) akzeptieren",
+      "perfekt": "hat akzeptiert",
+      "praeteritum": "akzeptierte",
+      "translation": "to accept",
+      "example": "Er akzeptiert die Entscheidung (Akk)."
     },
     {
       "verb": "erklären",
-      "structure": "jdm (Dat) etw (Akk) erklären"
+      "structure": "jdm (Dat) etw (Akk) erklären",
+      "perfekt": "hat erklärt",
+      "praeteritum": "erklärte",
+      "translation": "to explain",
+      "example": "Der Lehrer erklärt den Schülern (Dat) die Regel (Akk)."
     },
     {
       "verb": "träumen",
-      "structure": "von jdm/etw (Dat) träumen"
+      "structure": "von jdm/etw (Dat) träumen",
+      "perfekt": "hat geträumt",
+      "praeteritum": "träumte",
+      "translation": "to dream",
+      "example": "Sie träumt von einer besseren Welt (Dat)."
     },
     {
       "verb": "verkaufen",
-      "structure": "etw (Akk) verkaufen"
+      "structure": "etw (Akk) verkaufen",
+      "perfekt": "hat verkauft",
+      "praeteritum": "verkaufte",
+      "translation": "to sell",
+      "example": "Wir verkaufen unser Auto (Akk)."
     },
     {
       "verb": "erwarten",
-      "structure": "etw (Akk) erwarten"
+      "structure": "etw (Akk) erwarten",
+      "perfekt": "hat erwartet",
+      "praeteritum": "erwartete",
+      "translation": "to expect",
+      "example": "Ich erwarte einen Anruf (Akk)."
     },
     {
       "verb": "unterstützen",
-      "structure": "jdn (Akk) unterstützen"
+      "structure": "jdn (Akk) unterstützen",
+      "perfekt": "hat unterstützt",
+      "praeteritum": "unterstützte",
+      "translation": "to support",
+      "example": "Die Firma unterstützt junge Talente (Akk)."
     },
     {
       "verb": "ausreichen",
-      "structure": "für etw (Akk) ausreichen"
+      "structure": "für etw (Akk) ausreichen",
+      "perfekt": "hat ausgereicht",
+      "praeteritum": "reichte aus",
+      "translation": "to suffice",
+      "example": "Das Geld reicht für den Urlaub (Akk) aus."
     },
     {
       "verb": "bauen",
-      "structure": "etw (Akk) bauen"
+      "structure": "etw (Akk) bauen",
+      "perfekt": "hat gebaut",
+      "praeteritum": "baute",
+      "translation": "to build",
+      "example": "Sie bauen ein neues Haus (Akk)."
     },
     {
       "verb": "vorbeigehen",
-      "structure": "an etw (Dat) vorbeigehen"
+      "structure": "an etw (Dat) vorbeigehen",
+      "perfekt": "ist vorbeigegangen",
+      "praeteritum": "ging vorbei",
+      "translation": "to pass by",
+      "example": "Ich gehe am Geschäft (Dat) vorbei."
     },
     {
       "verb": "helfen",
-      "structure": "jdm (Dat) helfen"
+      "structure": "jdm (Dat) helfen",
+      "perfekt": "hat geholfen",
+      "praeteritum": "half",
+      "translation": "to help",
+      "example": "Kann ich dir (Dat) helfen?"
     },
     {
       "verb": "ergänzen",
-      "structure": "etw (Akk) ergänzen"
+      "structure": "etw (Akk) ergänzen",
+      "perfekt": "hat ergänzt",
+      "praeteritum": "ergänzte",
+      "translation": "to supplement",
+      "example": "Der Autor ergänzt das Buch (Akk)."
     },
     {
       "verb": "sortieren",
-      "structure": "etw (Akk) sortieren"
+      "structure": "etw (Akk) sortieren",
+      "perfekt": "hat sortiert",
+      "praeteritum": "sortierte",
+      "translation": "to sort",
+      "example": "Sie sortiert die Dokumente (Akk)."
     },
     {
       "verb": "aushalten",
-      "structure": "etw (Akk) aushalten"
+      "structure": "etw (Akk) aushalten",
+      "perfekt": "hat ausgehalten",
+      "praeteritum": "hielt aus",
+      "translation": "to endure",
+      "example": "Ich halte den Lärm (Akk) nicht mehr aus."
     },
     {
       "verb": "wegnehmen",
-      "structure": "jdm (Dat) etw (Akk) wegnehmen"
+      "structure": "jdm (Dat) etw (Akk) wegnehmen",
+      "perfekt": "hat weggenommen",
+      "praeteritum": "nahm weg",
+      "translation": "to take away",
+      "example": "Sie nahm dem Kind (Dat) das Messer (Akk) weg."
     },
     {
       "verb": "schreien",
-      "structure": "nach jdm/etw (Dat) schreien"
+      "structure": "nach jdm/etw (Dat) schreien",
+      "perfekt": "hat geschrien",
+      "praeteritum": "schrie",
+      "translation": "to scream",
+      "example": "Das Baby schreit nach seiner Mutter (Dat)."
     },
     {
       "verb": "betrügen",
-      "structure": "jdn (Akk) betrügen"
+      "structure": "jdn (Akk) betrügen",
+      "perfekt": "hat betrogen",
+      "praeteritum": "betrog",
+      "translation": "to cheat",
+      "example": "Er betrog seine Partnerin (Akk)."
     },
     {
       "verb": "schicken",
-      "structure": "etw (Akk) schicken"
+      "structure": "etw (Akk) schicken",
+      "perfekt": "hat geschickt",
+      "praeteritum": "schickte",
+      "translation": "to send",
+      "example": "Ich schicke dir die Unterlagen (Akk)."
     },
     {
       "verb": "verlieren",
-      "structure": "etw (Akk) verlieren"
+      "structure": "etw (Akk) verlieren",
+      "perfekt": "hat verloren",
+      "praeteritum": "verlor",
+      "translation": "to lose",
+      "example": "Sie verlor ihren Schlüssel (Akk)."
     },
     {
       "verb": "erwähnen",
-      "structure": "etw (Akk) erwähnen"
+      "structure": "etw (Akk) erwähnen",
+      "perfekt": "hat erwähnt",
+      "praeteritum": "erwähnte",
+      "translation": "to mention",
+      "example": "Er erwähnte den Vorfall (Akk) nicht."
     },
     {
       "verb": "benutzen",
-      "structure": "etw (Akk) benutzen"
+      "structure": "etw (Akk) benutzen",
+      "perfekt": "hat benutzt",
+      "praeteritum": "benutzte",
+      "translation": "to use",
+      "example": "Darf ich dein Telefon (Akk) benutzen?"
     },
     {
       "verb": "gefallen",
-      "structure": "jdm (Dat) gefallen"
+      "structure": "jdm (Dat) gefallen",
+      "perfekt": "hat gefallen",
+      "praeteritum": "gefiel",
+      "translation": "to please",
+      "example": "Das Bild gefällt mir (Dat) sehr."
     },
     {
       "verb": "bleiben",
-      "structure": "an einem Ort (Dat) bleiben"
+      "structure": "an einem Ort (Dat) bleiben",
+      "perfekt": "ist geblieben",
+      "praeteritum": "blieb",
+      "translation": "to stay",
+      "example": "Wir bleiben zu Hause (Dat)."
     },
     {
       "verb": "benehmen",
-      "structure": "sich (Akk) benehmen"
+      "structure": "sich (Akk) benehmen",
+      "perfekt": "hat benommen",
+      "praeteritum": "benahm",
+      "translation": "to behave",
+      "example": "Die Kinder benehmen sich gut."
     },
     {
       "verb": "erledigen",
-      "structure": "etw (Akk) erledigen"
+      "structure": "etw (Akk) erledigen",
+      "perfekt": "hat erledigt",
+      "praeteritum": "erledigte",
+      "translation": "to complete",
+      "example": "Ich erledige die Arbeit (Akk) schnell."
     },
     {
       "verb": "singen",
-      "structure": "etw (Akk) singen"
+      "structure": "etw (Akk) singen",
+      "perfekt": "hat gesungen",
+      "praeteritum": "sang",
+      "translation": "to sing",
+      "example": "Sie singt ein Lied (Akk)."
     },
     {
       "verb": "reparieren",
-      "structure": "etw (Akk) reparieren"
+      "structure": "etw (Akk) reparieren",
+      "perfekt": "hat repariert",
+      "praeteritum": "reparierte",
+      "translation": "to repair",
+      "example": "Der Mechaniker repariert das Auto (Akk)."
     },
     {
       "verb": "nachweisen",
-      "structure": "etw (Akk) nachweisen"
+      "structure": "etw (Akk) nachweisen",
+      "perfekt": "hat nachgewiesen",
+      "praeteritum": "wies nach",
+      "translation": "to prove",
+      "example": "Der Wissenschaftler wies die Theorie (Akk) nach."
     },
     {
       "verb": "kümmern",
-      "structure": "sich (Akk) um jdn/etw (Akk) kümmern"
+      "structure": "sich (Akk) um jdn/etw (Akk) kümmern",
+      "perfekt": "hat gekümmert",
+      "praeteritum": "kümmerte",
+      "translation": "to take care of",
+      "example": "Sie kümmert sich um die Kinder (Akk)."
     },
     {
       "verb": "schaffen",
-      "structure": "etw (Akk) schaffen"
+      "structure": "etw (Akk) schaffen",
+      "perfekt": "hat geschafft",
+      "praeteritum": "schaffte",
+      "translation": "to manage, create",
+      "example": "Er schafft die Prüfung (Akk) leicht."
     },
     {
       "verb": "kündigen",
-      "structure": "jdm (Dat) kündigen"
+      "structure": "jdm (Dat) kündigen",
+      "perfekt": "hat gekündigt",
+      "praeteritum": "kündigte",
+      "translation": "to quit, give notice",
+      "example": "Sie kündigte ihrem Chef (Dat)."
     },
     {
       "verb": "fahren",
-      "structure": "an einen Ort (Akk) fahren"
+      "structure": "an einen Ort (Akk) fahren",
+      "perfekt": "ist gefahren",
+      "praeteritum": "fuhr",
+      "translation": "to drive",
+      "example": "Wir fahren ans Meer (Akk)."
     },
     {
       "verb": "hindern",
-      "structure": "jdn (Akk) an etw (Dat) hindern"
+      "structure": "jdn (Akk) an etw (Dat) hindern",
+      "perfekt": "hat gehindert",
+      "praeteritum": "hinderte",
+      "translation": "to prevent",
+      "example": "Nichts hindert mich (Akk) an der Reise (Dat)."
     },
     {
       "verb": "hören",
-      "structure": "etw (Akk) hören"
+      "structure": "etw (Akk) hören",
+      "perfekt": "hat gehört",
+      "praeteritum": "hörte",
+      "translation": "to hear",
+      "example": "Hörst du die Musik (Akk)?"
     },
     {
       "verb": "folgen",
-      "structure": "jdm (Dat) folgen"
+      "structure": "jdm (Dat) folgen",
+      "perfekt": "ist gefolgt",
+      "praeteritum": "folgte",
+      "translation": "to follow",
+      "example": "Der Hund folgt seinem Herrchen (Dat)."
     },
     {
       "verb": "leben",
-      "structure": "von etw (Dat) leben"
+      "structure": "von etw (Dat) leben",
+      "perfekt": "hat gelebt",
+      "praeteritum": "lebte",
+      "translation": "to live on",
+      "example": "Die Familie lebt von ihrem Gehalt (Dat)."
     },
     {
       "verb": "vergeben",
-      "structure": "jdm (Dat) vergeben"
+      "structure": "jdm (Dat) vergeben",
+      "perfekt": "hat vergeben",
+      "praeteritum": "vergab",
+      "translation": "to forgive",
+      "example": "Ich vergebe dir (Dat) deinen Fehler."
     },
     {
       "verb": "erwerben",
-      "structure": "etw (Akk) erwerben"
+      "structure": "etw (Akk) erwerben",
+      "perfekt": "hat erworben",
+      "praeteritum": "erwarb",
+      "translation": "to acquire",
+      "example": "Sie erwarb neue Fähigkeiten (Akk)."
     },
     {
       "verb": "verletzen",
-      "structure": "jdn (Akk) verletzen"
+      "structure": "jdn (Akk) verletzen",
+      "perfekt": "hat verletzt",
+      "praeteritum": "verletzte",
+      "translation": "to injure",
+      "example": "Der Stürmer verletzte den Gegenspieler (Akk)."
     },
     {
       "verb": "bearbeiten",
-      "structure": "etw (Akk) bearbeiten"
+      "structure": "etw (Akk) bearbeiten",
+      "perfekt": "hat bearbeitet",
+      "praeteritum": "bearbeitete",
+      "translation": "to process",
+      "example": "Ich bearbeite das Dokument (Akk)."
     },
     {
       "verb": "betreiben",
-      "structure": "etw (Akk) betreiben"
+      "structure": "etw (Akk) betreiben",
+      "perfekt": "hat betrieben",
+      "praeteritum": "betrieb",
+      "translation": "to operate",
+      "example": "Die Firma betreibt ein Hotel (Akk)."
     },
     {
       "verb": "entfernen",
-      "structure": "etw (Akk) entfernen"
+      "structure": "etw (Akk) entfernen",
+      "perfekt": "hat entfernt",
+      "praeteritum": "entfernte",
+      "translation": "to remove",
+      "example": "Der Arzt entfernt den Splitter (Akk)."
     },
     {
       "verb": "verärgern",
-      "structure": "jdn (Akk) verärgern"
+      "structure": "jdn (Akk) verärgern",
+      "perfekt": "hat verärgert",
+      "praeteritum": "verärgerte",
+      "translation": "to annoy",
+      "example": "Sein Verhalten verärgerte die Gäste (Akk)."
     },
     {
       "verb": "anstrengen",
-      "structure": "sich (Akk) anstrengen"
+      "structure": "sich (Akk) anstrengen",
+      "perfekt": "hat angestrengt",
+      "praeteritum": "strengte an",
+      "translation": "to make an effort",
+      "example": "Streng dich (Akk) mehr an!"
     }
   ],
   "5": [
     {
       "verb": "fordern",
-      "structure": "etw (Akk) fordern"
+      "structure": "etw (Akk) fordern",
+      "perfekt": "hat gefordert",
+      "praeteritum": "forderte",
+      "translation": "to demand",
+      "example": "Die Gewerkschaft fordert höhere Löhne (Akk)."
     },
     {
       "verb": "verhaften",
-      "structure": "jdn (Akk) verhaften"
+      "structure": "jdn (Akk) verhaften",
+      "perfekt": "hat verhaftet",
+      "praeteritum": "verhaftete",
+      "translation": "to arrest",
+      "example": "Die Polizei verhaftete den Verdächtigen (Akk)."
     },
     {
       "verb": "wünschen",
-      "structure": "sich (Akk) etw (Akk) wünschen"
+      "structure": "sich (Akk) etw (Akk) wünschen",
+      "perfekt": "hat gewünscht",
+      "praeteritum": "wünschte",
+      "translation": "to wish",
+      "example": "Ich wünsche mir ein neues Fahrrad (Akk)."
     },
     {
       "verb": "verursachen",
-      "structure": "etw (Akk) verursachen"
+      "structure": "etw (Akk) verursachen",
+      "perfekt": "hat verursacht",
+      "praeteritum": "verursachte",
+      "translation": "to cause",
+      "example": "Der Sturm verursachte große Schäden (Akk)."
     },
     {
       "verb": "beenden",
-      "structure": "etw (Akk) beenden"
+      "structure": "etw (Akk) beenden",
+      "perfekt": "hat beendet",
+      "praeteritum": "beendete",
+      "translation": "to end",
+      "example": "Wir beenden die Sitzung (Akk) jetzt."
     },
     {
       "verb": "bestellen",
-      "structure": "etw (Akk) bestellen"
+      "structure": "etw (Akk) bestellen",
+      "perfekt": "hat bestellt",
+      "praeteritum": "bestellte",
+      "translation": "to order",
+      "example": "Sie bestellte eine Pizza (Akk)."
     },
     {
       "verb": "auswirken",
-      "structure": "sich (Akk) auf etw (Akk) auswirken"
+      "structure": "sich (Akk) auf etw (Akk) auswirken",
+      "perfekt": "hat ausgewirkt",
+      "praeteritum": "wirkte aus",
+      "translation": "to affect",
+      "example": "Das Gesetz wirkt sich auf die Wirtschaft (Akk) aus."
     },
     {
       "verb": "widersprechen",
-      "structure": "jdm (Dat) widersprechen"
+      "structure": "jdm (Dat) widersprechen",
+      "perfekt": "hat widersprochen",
+      "praeteritum": "widersprach",
+      "translation": "to contradict",
+      "example": "Er widersprach seinem Chef (Dat) nicht."
     },
     {
       "verb": "laufen",
-      "structure": "um etw (Akk) laufen"
+      "structure": "um etw (Akk) laufen",
+      "perfekt": "ist gelaufen",
+      "praeteritum": "lief",
+      "translation": "to run",
+      "example": "Es läuft um den ersten Platz (Akk)."
     },
     {
       "verb": "regnen",
-      "structure": "es regnet"
+      "structure": "es regnet",
+      "perfekt": "hat geregnet",
+      "praeteritum": "regnete",
+      "translation": "to rain",
+      "example": "Gestern regnete es den ganzen Tag."
     },
     {
       "verb": "bestätigen",
-      "structure": "etw (Akk) bestätigen"
+      "structure": "etw (Akk) bestätigen",
+      "perfekt": "hat bestätigt",
+      "praeteritum": "bestätigte",
+      "translation": "to confirm",
+      "example": "Die Firma bestätigte den Termin (Akk)."
     },
     {
       "verb": "anfassen",
-      "structure": "etw (Akk) anfassen"
+      "structure": "etw (Akk) anfassen",
+      "perfekt": "hat angefasst",
+      "praeteritum": "fasste an",
+      "translation": "to touch",
+      "example": "Fass die heiße Platte (Akk) nicht an!"
     },
     {
       "verb": "beschweren",
-      "structure": "sich (Akk) über etw (Akk) beschweren"
+      "structure": "sich (Akk) über etw (Akk) beschweren",
+      "perfekt": "hat beschwert",
+      "praeteritum": "beschwerte",
+      "translation": "to complain",
+      "example": "Die Gäste beschwerten sich über den Lärm (Akk)."
     },
     {
       "verb": "diskutieren",
-      "structure": "über etw (Akk) diskutieren"
+      "structure": "über etw (Akk) diskutieren",
+      "perfekt": "hat diskutiert",
+      "praeteritum": "diskutierte",
+      "translation": "to discuss",
+      "example": "Wir diskutieren über Politik (Akk)."
     },
     {
       "verb": "kooperieren",
-      "structure": "mit jdm (Dat) kooperieren"
+      "structure": "mit jdm (Dat) kooperieren",
+      "perfekt": "hat kooperiert",
+      "praeteritum": "kooperierte",
+      "translation": "to cooperate",
+      "example": "Die Länder kooperieren miteinander (Dat)."
     },
     {
       "verb": "aufhören",
-      "structure": "mit etw (Dat) aufhören"
+      "structure": "mit etw (Dat) aufhören",
+      "perfekt": "hat aufgehört",
+      "praeteritum": "hörte auf",
+      "translation": "to stop",
+      "example": "Hör mit dem Unsinn (Dat) auf!"
     },
     {
       "verb": "ärgern",
-      "structure": "sich (Akk) über etw (Akk) ärgern"
+      "structure": "sich (Akk) über etw (Akk) ärgern",
+      "perfekt": "hat geärgert",
+      "praeteritum": "ärgerte",
+      "translation": "to get angry",
+      "example": "Ich ärgere mich über die Verspätung (Akk)."
     },
     {
       "verb": "lehren",
-      "structure": "jdn (Akk) etw (Akk) lehren"
+      "structure": "jdn (Akk) etw (Akk) lehren",
+      "perfekt": "hat gelehrt",
+      "praeteritum": "lehrte",
+      "translation": "to teach",
+      "example": "Der Professor lehrt die Studenten (Akk) Mathematik (Akk)."
     },
     {
       "verb": "bringen",
-      "structure": "jdm (Dat) etw (Akk) bringen"
+      "structure": "jdm (Dat) etw (Akk) bringen",
+      "perfekt": "hat gebracht",
+      "praeteritum": "brachte",
+      "translation": "to bring",
+      "example": "Kannst du mir (Dat) das Buch (Akk) bringen?"
     },
     {
       "verb": "planen",
-      "structure": "etw (Akk) planen"
+      "structure": "etw (Akk) planen",
+      "perfekt": "hat geplant",
+      "praeteritum": "plante",
+      "translation": "to plan",
+      "example": "Wir planen eine Reise (Akk)."
     },
     {
       "verb": "schneiden",
-      "structure": "etw (Akk) schneiden"
+      "structure": "etw (Akk) schneiden",
+      "perfekt": "hat geschnitten",
+      "praeteritum": "schnitt",
+      "translation": "to cut",
+      "example": "Sie schneidet das Brot (Akk)."
     },
     {
       "verb": "verständigen",
-      "structure": "sich (Akk) mit jdm (Dat) verständigen"
+      "structure": "sich (Akk) mit jdm (Dat) verständigen",
+      "perfekt": "hat verständigt",
+      "praeteritum": "verständigte",
+      "translation": "to communicate",
+      "example": "Wir verständigen uns mit Händen und Füßen (Dat)."
     },
     {
       "verb": "denken",
-      "structure": "an jdn/etw (Akk) denken"
+      "structure": "an jdn/etw (Akk) denken",
+      "perfekt": "hat gedacht",
+      "praeteritum": "dachte",
+      "translation": "to think",
+      "example": "Ich denke oft an dich (Akk)."
     },
     {
       "verb": "anschaffen",
-      "structure": "sich (Akk) etw (Akk) anschaffen"
+      "structure": "sich (Akk) etw (Akk) anschaffen",
+      "perfekt": "hat angeschafft",
+      "praeteritum": "schaffte an",
+      "translation": "to acquire",
+      "example": "Wir schaffen uns ein neues Auto (Akk) an."
     },
     {
       "verb": "aneignen",
-      "structure": "sich (Akk) etw (Akk) aneignen"
+      "structure": "sich (Akk) etw (Akk) aneignen",
+      "perfekt": "hat angeeignet",
+      "praeteritum": "eignete an",
+      "translation": "to acquire (knowledge)",
+      "example": "Sie eignete sich neue Fähigkeiten (Akk) an."
     },
     {
       "verb": "wiederholen",
-      "structure": "etw (Akk) wiederholen"
+      "structure": "etw (Akk) wiederholen",
+      "perfekt": "hat wiederholt",
+      "praeteritum": "wiederholte",
+      "translation": "to repeat",
+      "example": "Der Lehrer wiederholt die Frage (Akk)."
     },
     {
       "verb": "vernachlässigen",
-      "structure": "etw (Akk) vernachlässigen"
+      "structure": "etw (Akk) vernachlässigen",
+      "perfekt": "hat vernachlässigt",
+      "praeteritum": "vernachlässigte",
+      "translation": "to neglect",
+      "example": "Er vernachlässigt seine Pflichten (Akk)."
     },
     {
       "verb": "setzen",
-      "structure": "sich (Akk) setzen"
+      "structure": "sich (Akk) setzen",
+      "perfekt": "hat gesetzt",
+      "praeteritum": "setzte",
+      "translation": "to sit down",
+      "example": "Setz dich (Akk) bitte!"
     },
     {
       "verb": "auswählen",
-      "structure": "etw (Akk) auswählen"
+      "structure": "etw (Akk) auswählen",
+      "perfekt": "hat ausgewählt",
+      "praeteritum": "wählte aus",
+      "translation": "to select",
+      "example": "Wähle ein Gericht (Akk) aus der Karte aus."
     },
     {
       "verb": "rauchen",
-      "structure": "etw (Akk) rauchen"
+      "structure": "etw (Akk) rauchen",
+      "perfekt": "hat geraucht",
+      "praeteritum": "rauchte",
+      "translation": "to smoke",
+      "example": "Er raucht eine Zigarette (Akk)."
     },
     {
       "verb": "beweisen",
-      "structure": "etw (Akk) beweisen"
+      "structure": "etw (Akk) beweisen",
+      "perfekt": "hat bewiesen",
+      "praeteritum": "bewies",
+      "translation": "to prove",
+      "example": "Der Anwalt bewies die Unschuld (Akk) seines Mandanten."
     },
     {
       "verb": "erkennen",
-      "structure": "etw (Akk) erkennen"
+      "structure": "etw (Akk) erkennen",
+      "perfekt": "hat erkannt",
+      "praeteritum": "erkannte",
+      "translation": "to recognize",
+      "example": "Ich erkenne dich (Akk) kaum wieder!"
     },
     {
       "verb": "machen",
-      "structure": "etw (Akk) machen"
+      "structure": "etw (Akk) machen",
+      "perfekt": "hat gemacht",
+      "praeteritum": "machte",
+      "translation": "to make, do",
+      "example": "Was machst du (Akk) heute Abend?"
     },
     {
       "verb": "erziehen",
-      "structure": "jdn (Akk) erziehen"
+      "structure": "jdn (Akk) erziehen",
+      "perfekt": "hat erzogen",
+      "praeteritum": "erzog",
+      "translation": "to educate",
+      "example": "Sie erzieht ihre Kinder (Akk) streng."
     },
     {
       "verb": "zahlen",
-      "structure": "etw (Akk) zahlen"
+      "structure": "etw (Akk) zahlen",
+      "perfekt": "hat gezahlt",
+      "praeteritum": "zahlte",
+      "translation": "to pay",
+      "example": "Ich zahle die Rechnung (Akk)."
     },
     {
       "verb": "bewahren",
-      "structure": "etw (Akk) bewahren"
+      "structure": "etw (Akk) bewahren",
+      "perfekt": "hat bewahrt",
+      "praeteritum": "bewahrte",
+      "translation": "to preserve",
+      "example": "Wir bewahren die Traditionen (Akk)."
     },
     {
       "verb": "finden",
-      "structure": "etw (Akk) finden"
+      "structure": "etw (Akk) finden",
+      "perfekt": "hat gefunden",
+      "praeteritum": "fand",
+      "translation": "to find",
+      "example": "Hast du deinen Schlüssel (Akk) gefunden?"
     },
     {
       "verb": "sagen",
-      "structure": "jdm (Dat) etw (Akk) sagen"
+      "structure": "jdm (Dat) etw (Akk) sagen",
+      "perfekt": "hat gesagt",
+      "praeteritum": "sagte",
+      "translation": "to say",
+      "example": "Sag mir (Dat) die Wahrheit (Akk)!"
     },
     {
       "verb": "überreden",
-      "structure": "jdn (Akk) zu etw (Dat) überreden"
+      "structure": "jdn (Akk) zu etw (Dat) überreden",
+      "perfekt": "hat überredet",
+      "praeteritum": "redete über",
+      "translation": "to persuade",
+      "example": "Sie überredete ihn (Akk) zum Mitkommen (Dat)."
     },
     {
       "verb": "vorliegen",
-      "structure": "etw (Nom) liegt vor"
+      "structure": "etw (Nom) liegt vor",
+      "perfekt": "hat vorgelegen",
+      "praeteritum": "lag vor",
+      "translation": "to be present",
+      "example": "Ein Problem (Nom) liegt vor."
     },
     {
       "verb": "spielen",
-      "structure": "etw (Akk) spielen"
+      "structure": "etw (Akk) spielen",
+      "perfekt": "hat gespielt",
+      "praeteritum": "spielte",
+      "translation": "to play",
+      "example": "Die Kinder spielen ein Spiel (Akk)."
     },
     {
       "verb": "verstehen",
-      "structure": "etw (Akk) verstehen"
+      "structure": "etw (Akk) verstehen",
+      "perfekt": "hat verstanden",
+      "praeteritum": "verstand",
+      "translation": "to understand",
+      "example": "Verstehst du die Frage (Akk)?"
     },
     {
       "verb": "warten",
-      "structure": "auf jdn/etw (Akk) warten"
+      "structure": "auf jdn/etw (Akk) warten",
+      "perfekt": "hat gewartet",
+      "praeteritum": "wartete",
+      "translation": "to wait",
+      "example": "Ich warte auf den Bus (Akk)."
     },
     {
       "verb": "beraten",
-      "structure": "jdn (Akk) beraten"
+      "structure": "jdn (Akk) beraten",
+      "perfekt": "hat beraten",
+      "praeteritum": "beriet",
+      "translation": "to advise",
+      "example": "Der Anwalt berät seinen Mandanten (Akk)."
     },
     {
       "verb": "verwandeln",
-      "structure": "etw (Akk) in etw (Akk) verwandeln"
+      "structure": "etw (Akk) in etw (Akk) verwandeln",
+      "perfekt": "hat verwandelt",
+      "praeteritum": "verwandelte",
+      "translation": "to transform",
+      "example": "Der Zauberer verwandelte Wasser (Akk) in Wein (Akk)."
     },
     {
       "verb": "starten",
-      "structure": "etw (Akk) starten"
+      "structure": "etw (Akk) starten",
+      "perfekt": "hat gestartet",
+      "praeteritum": "startete",
+      "translation": "to start",
+      "example": "Wir starten das Projekt (Akk) nächste Woche."
     },
     {
       "verb": "schämen",
-      "structure": "sich (Akk) schämen"
+      "structure": "sich (Akk) schämen",
+      "perfekt": "hat geschämt",
+      "praeteritum": "schämte",
+      "translation": "to be ashamed",
+      "example": "Schämst du dich (Akk) nicht?"
     },
     {
       "verb": "verhalten",
-      "structure": "sich (Akk) verhalten"
+      "structure": "sich (Akk) verhalten",
+      "perfekt": "hat verhalten",
+      "praeteritum": "verhielt",
+      "translation": "to behave",
+      "example": "Wie verhältst du dich (Akk) in dieser Situation?"
     },
     {
       "verb": "beherrschen",
-      "structure": "etw (Akk) beherrschen"
+      "structure": "etw (Akk) beherrschen",
+      "perfekt": "hat beherrscht",
+      "praeteritum": "beherrschte",
+      "translation": "to master",
+      "example": "Sie beherrscht drei Sprachen (Akk)."
     },
     {
       "verb": "überweisen",
-      "structure": "jdm (Dat) etw (Akk) überweisen"
+      "structure": "jdm (Dat) etw (Akk) überweisen",
+      "perfekt": "hat überwiesen",
+      "praeteritum": "überwies",
+      "translation": "to transfer",
+      "example": "Ich überweise dir (Dat) das Geld (Akk) morgen."
     },
     {
       "verb": "bemühen",
-      "structure": "sich (Akk) bemühen"
+      "structure": "sich (Akk) bemühen",
+      "perfekt": "hat bemüht",
+      "praeteritum": "bemühte",
+      "translation": "to make an effort",
+      "example": "Er bemüht sich sehr (Akk)."
     },
     {
       "verb": "entlassen",
-      "structure": "jdn (Akk) entlassen"
+      "structure": "jdn (Akk) entlassen",
+      "perfekt": "hat entlassen",
+      "praeteritum": "entließ",
+      "translation": "to dismiss",
+      "example": "Die Firma entließ mehrere Mitarbeiter (Akk)."
     },
     {
       "verb": "gliedern",
-      "structure": "etw (Akk) gliedern"
+      "structure": "etw (Akk) gliedern",
+      "perfekt": "hat gegliedert",
+      "praeteritum": "gliederte",
+      "translation": "to structure",
+      "example": "Der Autor gliedert das Buch (Akk) in Kapitel."
     },
     {
       "verb": "bleidigen",
-      "structure": "jdn (Akk) beleidigen"
+      "structure": "jdn (Akk) beleidigen",
+      "perfekt": "hat beleidigt",
+      "praeteritum": "beleidigte",
+      "translation": "to insult",
+      "example": "Er beleidigte seinen Kollegen (Akk)."
     },
     {
       "verb": "bewaffnen",
-      "structure": "jdn (Akk) bewaffnen"
+      "structure": "jdn (Akk) bewaffnen",
+      "perfekt": "hat bewaffnet",
+      "praeteritum": "bewaffnete",
+      "translation": "to arm",
+      "example": "Die Soldaten bewaffneten sich (Akk)."
     },
     {
       "verb": "betragen",
-      "structure": "sich (Akk) betragen"
+      "structure": "sich (Akk) betragen",
+      "perfekt": "hat betragen",
+      "praeteritum": "betrug",
+      "translation": "to behave",
+      "example": "Die Kinder betragen sich gut."
     },
     {
       "verb": "verraten",
-      "structure": "jdn (Akk) verraten"
+      "structure": "jdn (Akk) verraten",
+      "perfekt": "hat verraten",
+      "praeteritum": "verriet",
+      "translation": "to betray",
+      "example": "Er verriet seinen Freund (Akk)."
     }
   ],
-    "6": [
+  "6": [
     {
       "verb": "bedauern",
-      "structure": "etw (Akk) bedauern"
+      "structure": "etw (Akk) bedauern",
+      "perfekt": "hat bedauert",
+      "praeteritum": "bedauerte",
+      "translation": "to regret",
+      "example": "Ich bedauere meinen Fehler (Akk)."
     },
     {
       "verb": "auskennen",
-      "structure": "sich (Akk) mit etw (Dat) auskennen"
+      "structure": "sich (Akk) mit etw (Dat) auskennen",
+      "perfekt": "hat ausgekannt",
+      "praeteritum": "kannte aus",
+      "translation": "to be familiar with",
+      "example": "Er kennt sich mit Computern (Dat) aus."
     },
     {
       "verb": "vorziehen",
-      "structure": "etw (Akk) vorziehen"
+      "structure": "etw (Akk) vorziehen",
+      "perfekt": "hat vorgezogen",
+      "praeteritum": "zog vor",
+      "translation": "to prefer",
+      "example": "Ich ziehe Tee (Akk) vor."
     },
     {
       "verb": "schreiben",
-      "structure": "etw (Akk) schreiben"
+      "structure": "etw (Akk) schreiben",
+      "perfekt": "hat geschrieben",
+      "praeteritum": "schrieb",
+      "translation": "to write",
+      "example": "Sie schreibt einen Brief (Akk)."
     },
     {
       "verb": "umsetzen",
-      "structure": "etw (Akk) umsetzen"
+      "structure": "etw (Akk) umsetzen",
+      "perfekt": "hat umgesetzt",
+      "praeteritum": "setzte um",
+      "translation": "to implement",
+      "example": "Das Team setzt die Pläne (Akk) um."
     },
     {
       "verb": "vorstellen",
-      "structure": "sich (Akk) jdm (Dat) vorstellen"
+      "structure": "sich (Akk) jdm (Dat) vorstellen",
+      "perfekt": "hat vorgestellt",
+      "praeteritum": "stellte vor",
+      "translation": "to introduce",
+      "example": "Darf ich mich (Akk) Ihnen (Dat) vorstellen?"
     },
     {
       "verb": "betreuen",
-      "structure": "jdn (Akk) betreuen"
+      "structure": "jdn (Akk) betreuen",
+      "perfekt": "hat betreut",
+      "praeteritum": "betreute",
+      "translation": "to look after",
+      "example": "Sie betreut die Kinder (Akk)."
     },
     {
       "verb": "beobachten",
-      "structure": "jdn/etw (Akk) beobachten"
+      "structure": "jdn/etw (Akk) beobachten",
+      "perfekt": "hat beobachtet",
+      "praeteritum": "beobachtete",
+      "translation": "to observe",
+      "example": "Der Wissenschaftler beobachtet die Vögel (Akk)."
     },
     {
       "verb": "verbinden",
-      "structure": "etw (Akk) mit etw (Dat) verbinden"
+      "structure": "etw (Akk) mit etw (Dat) verbinden",
+      "perfekt": "hat verbunden",
+      "praeteritum": "verband",
+      "translation": "to connect",
+      "example": "Die Brücke verbindet die Städte (Akk) miteinander (Dat)."
     },
     {
       "verb": "anrufen",
-      "structure": "jdn (Akk) anrufen"
+      "structure": "jdn (Akk) anrufen",
+      "perfekt": "hat angerufen",
+      "praeteritum": "rief an",
+      "translation": "to call",
+      "example": "Ich rufe dich (Akk) später an."
     },
     {
       "verb": "veröffentlichen",
-      "structure": "etw (Akk) veröffentlichen"
+      "structure": "etw (Akk) veröffentlichen",
+      "perfekt": "hat veröffentlicht",
+      "praeteritum": "veröffentlichte",
+      "translation": "to publish",
+      "example": "Der Autor veröffentlichte sein Buch (Akk)."
     },
     {
       "verb": "melden",
-      "structure": "etw (Akk) melden"
+      "structure": "etw (Akk) melden",
+      "perfekt": "hat gemeldet",
+      "praeteritum": "meldete",
+      "translation": "to report",
+      "example": "Bitte melden Sie den Vorfall (Akk)."
     },
     {
       "verb": "vergessen",
-      "structure": "etw (Akk) vergessen"
+      "structure": "etw (Akk) vergessen",
+      "perfekt": "hat vergessen",
+      "praeteritum": "vergass",
+      "translation": "to forget",
+      "example": "Ich habe meinen Schlüssel (Akk) vergessen."
     },
     {
       "verb": "nachdenken",
-      "structure": "über etw (Akk) nachdenken"
+      "structure": "über etw (Akk) nachdenken",
+      "perfekt": "hat nachgedacht",
+      "praeteritum": "dachte nach",
+      "translation": "to think about",
+      "example": "Ich denke über das Problem (Akk) nach."
     },
     {
       "verb": "begeistern",
-      "structure": "jdn (Akk) begeistern"
+      "structure": "jdn (Akk) begeistern",
+      "perfekt": "hat begeistert",
+      "praeteritum": "begeisterte",
+      "translation": "to excite",
+      "example": "Das Konzert begeisterte die Zuschauer (Akk)."
     },
     {
       "verb": "erzählen",
-      "structure": "jdm (Dat) etw (Akk) erzählen"
+      "structure": "jdm (Dat) etw (Akk) erzählen",
+      "perfekt": "hat erzählt",
+      "praeteritum": "erzählte",
+      "translation": "to tell",
+      "example": "Er erzählte mir (Dat) eine Geschichte (Akk)."
     },
     {
       "verb": "verzeihen",
-      "structure": "jdm (Dat) etw (Akk) verzeihen"
+      "structure": "jdm (Dat) etw (Akk) verzeihen",
+      "perfekt": "hat verziehen",
+      "praeteritum": "verzieh",
+      "translation": "to forgive",
+      "example": "Kannst du mir (Dat) den Fehler (Akk) verzeihen?"
     },
     {
       "verb": "informieren",
-      "structure": "jdn (Akk) über etw (Akk) informieren"
+      "structure": "jdn (Akk) über etw (Akk) informieren",
+      "perfekt": "hat informiert",
+      "praeteritum": "informierte",
+      "translation": "to inform",
+      "example": "Bitte informieren Sie mich (Akk) über die Änderungen (Akk)."
     },
     {
       "verb": "verlaufen",
-      "structure": "sich (Akk) verlaufen"
+      "structure": "sich (Akk) verlaufen",
+      "perfekt": "hat verlaufen",
+      "praeteritum": "verlief",
+      "translation": "to get lost",
+      "example": "Wir haben uns (Akk) im Wald verlaufen."
     },
     {
       "verb": "bitten",
-      "structure": "jdn (Akk) um etw (Akk) bitten"
+      "structure": "jdn (Akk) um etw (Akk) bitten",
+      "perfekt": "hat gebeten",
+      "praeteritum": "bat",
+      "translation": "to ask",
+      "example": "Ich bitte dich (Akk) um Hilfe (Akk)."
     },
     {
       "verb": "entschließen",
-      "structure": "sich (Akk) zu etw (Dat) entschließen"
+      "structure": "sich (Akk) zu etw (Dat) entschließen",
+      "perfekt": "hat entschlossen",
+      "praeteritum": "entschloss",
+      "translation": "to decide",
+      "example": "Sie entschloss sich zum Kauf (Dat)."
     },
     {
       "verb": "beschreiben",
-      "structure": "etw (Akk) beschreiben"
+      "structure": "etw (Akk) beschreiben",
+      "perfekt": "hat beschrieben",
+      "praeteritum": "beschrieb",
+      "translation": "to describe",
+      "example": "Beschreiben Sie den Täter (Akk) bitte genau."
     },
     {
       "verb": "hinhalten",
-      "structure": "jdn (Akk) hinhalten"
+      "structure": "jdn (Akk) hinhalten",
+      "perfekt": "hat hingehalten",
+      "praeteritum": "hielt hin",
+      "translation": "to keep waiting",
+      "example": "Er hielt mich (Akk) mit Ausreden hin."
     },
     {
       "verb": "verbringen",
-      "structure": "etw (Akk) verbringen"
+      "structure": "etw (Akk) verbringen",
+      "perfekt": "hat verbracht",
+      "praeteritum": "verbrachte",
+      "translation": "to spend (time)",
+      "example": "Wir verbrachten den Urlaub (Akk) am Meer."
     },
     {
       "verb": "besitzen",
-      "structure": "etw (Akk) besitzen"
+      "structure": "etw (Akk) besitzen",
+      "perfekt": "hat besessen",
+      "praeteritum": "besaß",
+      "translation": "to own",
+      "example": "Er besitzt ein großes Haus (Akk)."
     },
     {
       "verb": "mitteilen",
-      "structure": "jdm (Dat) etw (Akk) mitteilen"
+      "structure": "jdm (Dat) etw (Akk) mitteilen",
+      "perfekt": "hat mitgeteilt",
+      "praeteritum": "teilte mit",
+      "translation": "to inform",
+      "example": "Der Chef teilte uns (Dat) die Entscheidung (Akk) mit."
     },
     {
       "verb": "führen",
-      "structure": "etw (Akk) führen"
+      "structure": "etw (Akk) führen",
+      "perfekt": "hat geführt",
+      "praeteritum": "führte",
+      "translation": "to lead",
+      "example": "Sie führt das Unternehmen (Akk) erfolgreich."
     },
     {
       "verb": "beginnen",
-      "structure": "mit etw (Dat) beginnen"
+      "structure": "mit etw (Dat) beginnen",
+      "perfekt": "hat begonnen",
+      "praeteritum": "begann",
+      "translation": "to begin",
+      "example": "Wann beginnen wir mit der Arbeit (Dat)?"
     },
     {
       "verb": "empfehlen",
-      "structure": "jdm (Dat) etw (Akk) empfehlen"
+      "structure": "jdm (Dat) etw (Akk) empfehlen",
+      "perfekt": "hat empfohlen",
+      "praeteritum": "empfahl",
+      "translation": "to recommend",
+      "example": "Der Arzt empfahl dem Patienten (Dat) Ruhe (Akk)."
     },
     {
       "verb": "vertreten",
-      "structure": "jdn/etw (Akk) vertreten"
+      "structure": "jdn/etw (Akk) vertreten",
+      "perfekt": "hat vertreten",
+      "praeteritum": "vertrat",
+      "translation": "to represent",
+      "example": "Er vertritt die Firma (Akk) auf der Messe."
     },
     {
       "verb": "weinen",
-      "structure": "über etw (Akk) weinen"
+      "structure": "über etw (Akk) weinen",
+      "perfekt": "hat geweint",
+      "praeteritum": "weinte",
+      "translation": "to cry",
+      "example": "Das Kind weint über den Verlust (Akk)."
     },
     {
       "verb": "lohnen",
-      "structure": "sich (Akk) lohnen"
+      "structure": "sich (Akk) lohnen",
+      "perfekt": "hat gelohnt",
+      "praeteritum": "lohnte",
+      "translation": "to be worth",
+      "example": "Die Mühe lohnt sich (Akk)."
     },
     {
       "verb": "fallen",
-      "structure": "jdm (Dat) einfallen"
+      "structure": "jdm (Dat) einfallen",
+      "perfekt": "ist eingefallen",
+      "praeteritum": "fiel ein",
+      "translation": "to occur to",
+      "example": "Der Name fällt mir (Dat) nicht ein."
     },
     {
       "verb": "aufmachen",
-      "structure": "etw (Akk) aufmachen"
+      "structure": "etw (Akk) aufmachen",
+      "perfekt": "hat aufgemacht",
+      "praeteritum": "machte auf",
+      "translation": "to open",
+      "example": "Mach das Fenster (Akk) auf!"
     },
     {
       "verb": "fortfahren",
-      "structure": "mit etw (Dat) fortfahren"
+      "structure": "mit etw (Dat) fortfahren",
+      "perfekt": "hat fortgefahren",
+      "praeteritum": "fuhr fort",
+      "translation": "to continue",
+      "example": "Er fuhr mit seiner Rede (Dat) fort."
     },
     {
       "verb": "gönnen",
-      "structure": "jdm (Dat) etw (Akk) gönnen"
+      "structure": "jdm (Dat) etw (Akk) gönnen",
+      "perfekt": "hat gegönnt",
+      "praeteritum": "gönnte",
+      "translation": "to not begrudge",
+      "example": "Ich gönne dir (Dat) den Erfolg (Akk)."
     },
     {
       "verb": "wählen",
-      "structure": "etw (Akk) wählen"
+      "structure": "etw (Akk) wählen",
+      "perfekt": "hat gewählt",
+      "praeteritum": "wählte",
+      "translation": "to choose",
+      "example": "Wähle eine Zahl (Akk) zwischen 1 und 10."
     },
     {
       "verb": "kommen",
-      "structure": "an einen Ort (Akk) kommen"
+      "structure": "an einen Ort (Akk) kommen",
+      "perfekt": "ist gekommen",
+      "praeteritum": "kam",
+      "translation": "to come",
+      "example": "Wann kommst du nach Hause (Akk)?"
     },
     {
       "verb": "unterscheiden",
-      "structure": "etw (Akk) von etw (Dat) unterscheiden"
+      "structure": "etw (Akk) von etw (Dat) unterscheiden",
+      "perfekt": "hat unterschieden",
+      "praeteritum": "unterschied",
+      "translation": "to distinguish",
+      "example": "Kannst du die Zwillinge (Akk) voneinander (Dat) unterscheiden?"
     },
     {
       "verb": "zeichnen",
-      "structure": "etw (Akk) zeichnen"
+      "structure": "etw (Akk) zeichnen",
+      "perfekt": "hat gezeichnet",
+      "praeteritum": "zeichnete",
+      "translation": "to draw",
+      "example": "Das Kind zeichnet ein Bild (Akk)."
     },
     {
       "verb": "umgeben",
-      "structure": "etw (Akk) umgeben"
+      "structure": "etw (Akk) umgeben",
+      "perfekt": "hat umgeben",
+      "praeteritum": "umgab",
+      "translation": "to surround",
+      "example": "Eine Mauer umgibt das Grundstück (Akk)."
     },
     {
       "verb": "fragen",
-      "structure": "jdn (Akk) nach etw (Dat) fragen"
+      "structure": "jdn (Akk) nach etw (Dat) fragen",
+      "perfekt": "hat gefragt",
+      "praeteritum": "fragte",
+      "translation": "to ask",
+      "example": "Ich frage den Lehrer (Akk) nach der Hausaufgabe (Dat)."
     },
     {
       "verb": "eignen",
-      "structure": "sich (Akk) für etw (Akk) eignen"
+      "structure": "sich (Akk) für etw (Akk) eignen",
+      "perfekt": "hat geeignet",
+      "praeteritum": "eignete",
+      "translation": "to be suitable",
+      "example": "Dieses Buch eignet sich (Akk) für Anfänger (Akk)."
     },
     {
       "verb": "beibringen",
-      "structure": "jdm (Dat) etw (Akk) beibringen"
+      "structure": "jdm (Dat) etw (Akk) beibringen",
+      "perfekt": "hat beigebracht",
+      "praeteritum": "brachte bei",
+      "translation": "to teach",
+      "example": "Sie brachte mir (Dat) das Schwimmen (Akk) bei."
     },
     {
       "verb": "beitragen",
-      "structure": "zu etw (Dat) beitragen"
+      "structure": "zu etw (Dat) beitragen",
+      "perfekt": "hat beigetragen",
+      "praeteritum": "trug bei",
+      "translation": "to contribute",
+      "example": "Jeder trägt zum Erfolg (Dat) bei."
     },
-    {
-      "verb": "stehen",
-      "structure": "auf etw (Dat) stehen"
-    },
-    {
-      "verb": "ziehen",
-      "structure": "etw (Akk) ziehen"
-    },
-    {
-      "verb": "leisten",
-      "structure": "etw (Akk) leisten"
-    },
-    {
-      "verb": "biegen",
-      "structure": "etw (Akk) biegen"
-    },
-    {
-      "verb": "zugeben",
-      "structure": "etw (Akk) zugeben"
-    },
-    {
-      "verb": "vereinen",
-      "structure": "etw (Akk) vereinen"
-    },
-    {
-      "verb": "umwandeln",
-      "structure": "etw (Akk) in etw (Akk) umwandeln"
-    },
-    {
-      "verb": "erneuern",
-      "structure": "etw (Akk) erneuern"
-    }
-  ]
+  {
+    "verb": "stehen",
+    "structure": "auf etw (Dat) stehen",
+    "perfekt": "hat gestanden",
+    "praeteritum": "stand",
+    "translation": "to like, to be into (something)",
+    "example": "Sie steht auf klassische Musik (Dat)."
+  },
+  {
+    "verb": "ziehen",
+    "structure": "etw (Akk) ziehen",
+    "perfekt": "hat gezogen",
+    "praeteritum": "zog",
+    "translation": "to pull, to draw",
+    "example": "Er zieht den Vorhang (Akk) zu."
+  },
+  {
+    "verb": "leisten",
+    "structure": "etw (Akk) leisten",
+    "perfekt": "hat geleistet",
+    "praeteritum": "leistete",
+    "translation": "to achieve, to accomplish",
+    "example": "Sie hat gute Arbeit (Akk) geleistet."
+  },
+  {
+    "verb": "biegen",
+    "structure": "etw (Akk) biegen",
+    "perfekt": "hat gebogen",
+    "praeteritum": "bog",
+    "translation": "to bend",
+    "example": "Er bog den Draht (Akk) in Form."
+  },
+  {
+    "verb": "zugeben",
+    "structure": "etw (Akk) zugeben",
+    "perfekt": "hat zugegeben",
+    "praeteritum": "gab zu",
+    "translation": "to admit, to add",
+    "example": "Sie gab ihren Fehler (Akk) zu."
+  },
+  {
+    "verb": "vereinen",
+    "structure": "etw (Akk) vereinen",
+    "perfekt": "hat vereint",
+    "praeteritum": "vereinte",
+    "translation": "to unite, to combine",
+    "example": "Das Projekt vereint verschiedene Ideen (Akk)."
+  },
+  {
+    "verb": "umwandeln",
+    "structure": "etw (Akk) in etw (Akk) umwandeln",
+    "perfekt": "hat umgewandelt",
+    "praeteritum": "wandelte um",
+    "translation": "to convert, to transform",
+    "example": "Sie wandelte das Gebäude (Akk) in ein Hotel (Akk) um."
+  },
+  {
+    "verb": "erneuern",
+    "structure": "etw (Akk) erneuern",
+    "perfekt": "hat erneuert",
+    "praeteritum": "erneuerte",
+    "translation": "to renew, to renovate",
+    "example": "Wir erneuern den Vertrag (Akk) jedes Jahr."
+  }
+]
   }
