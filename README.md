@@ -2,6 +2,7 @@
 
 *Deutsche Verben Meister* is a German verb trainer app that helps learners practice verb structures (Akkusativ/Dativ) over a 6-day learning schedule. The tool corrects user answers and helps reinforce understanding through repetition and feedback.
 
+
 ---
 
 <h2>📸 Screenshots</h2>
