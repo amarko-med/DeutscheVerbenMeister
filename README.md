@@ -1,78 +1,81 @@
 # 🇩🇪 Deutsche Verben Meister
 
-*Deutsche Verben Meister* is a German verb trainer app that helps learners practice verb structures (Akkusativ/Dativ) over a 6-day learning schedule. The tool corrects user answers and helps reinforce understanding through repetition and feedback.
-
+*Deutsche Verben Meister* ist eine deutsche Verbtrainer-App, die Lernenden hilft, **Verbstrukturen (Akkusativ/Dativ)** über einen sechstägigen Lernplan zu üben.  
+Das Tool korrigiert die Antworten der Nutzer und stärkt das Verständnis durch Wiederholung und Feedback.
 
 ---
 
 <h2>📸 Screenshots</h2>
 
-<p><strong>🖼️ Main View & 🧪 Practice Mode</strong></p>
+<p><strong>🖼️ Hauptansicht & 🧪 Übungsmodus</strong></p>
 <p>
-  <img src="images/Screenshot%202025-06-15%20130215.png" alt="Main View" width="35%">
-  <img src="images/Screenshot%202025-06-15%20130323.png" alt="Practice Mode" width="35%">
+  <img src="images/Screenshot%202025-06-15%20130215.png" alt="Hauptansicht" width="35%">
+  <img src="images/Screenshot%202025-06-15%20130323.png" alt="Übungsmodus" width="35%">
 </p>
 
-<p><strong>📋 Verb List & 🃏 Flashcard Mode</strong></p>
+<p><strong>📋 Verb-Liste & 🃏 Karteikartenmodus</strong></p>
 <p>
-  <img src="images/Screenshot%202025-06-15%20130829.png" alt="Flashcard Mode" width="35%">
-  <img src="images/Screenshot%202025-06-18%20165927.png" alt="Verb List Editor" width="35%">
+  <img src="images/Screenshot%202025-06-15%20130829.png" alt="Karteikartenmodus" width="35%">
+  <img src="images/Screenshot%202025-06-18%20165927.png" alt="Verblisten-Editor" width="35%">
 </p>
 
 ---
 
-## 🧠 Features
+## 🧠 Funktionen
 
-* 🗓️ 6-day practice structure to organize learning
-* ✅ Interactive verb selection and feedback
-* 🇩🇪 Helps learners distinguish between **Akkusativ** and **Dativ**
-* ✍️ Add or remove verbs for each practice day
-* 🃏 Flashcards now include:
-  * Example sentences
-  * English translations
-  * Verb forms (Perfekt and Präteritum)
+* 🗓️ 6-Tage-Übungsstruktur zur besseren Lernorganisation  
+* ✅ Interaktive Verbenauswahl und Feedback  
+* 🇩🇪 Hilft Lernenden, zwischen **Akkusativ** und **Dativ** zu unterscheiden  
+* ✍️ Verben für jeden Lerntag hinzufügen oder entfernen  
+* 🃏 Karteikarten enthalten jetzt:
+  * Beispielsätze  
+  * Englische Übersetzungen  
+  * Verbformen (Perfekt und Präteritum)
 
 ---
 
-## 🚀 Live Demo
+## 🚀 Live-Demo
 
-Try it now:
+Jetzt ausprobieren:  
 👉 **[https://amarko-med.github.io/DeutscheVerbenMeister/](https://amarko-med.github.io/DeutscheVerbenMeister/)**
 
 ---
 
-## 🛠️ Built With
+## 🛠️ Erstellt mit
 
-* HTML
-* CSS
+* HTML  
+* CSS  
 * JavaScript
 
 ---
 
-## 📚 Learning Purpose
+## 📚 Lernzweck
 
-This is part of my personal learning journey. I started this project after learning the basics of JavaScript and improved it step by step as I gained more skills. It reflects my progress and growing experience in web development.
-
----
-
-## 🤖 AI Assistance
-
-Some parts of this project were developed with the help of AI to optimize code and speed up development, while all logic and structure were fully understood and implemented by me.
+Dieses Projekt ist Teil meines persönlichen Lernwegs.  
+Ich habe es begonnen, nachdem ich die Grundlagen von JavaScript gelernt hatte, und Schritt für Schritt verbessert, während ich mehr Erfahrung sammelte.  
+Es zeigt meinen Fortschritt und meine wachsende Erfahrung in der Webentwicklung.
 
 ---
 
-## 📂 Project Status
+## 🤖 KI-Unterstützung
 
-🟢 Active — I continue to improve it, including features like translation, progress tracking, and mobile optimization.
-
----
-
-## 📩 Contact
-
-##  Email: [amarkouchi5@gmail.com](mailto:amarkouchi5@gmail.com)
+Einige Teile dieses Projekts wurden mit Hilfe von **KI** entwickelt, um den Code zu optimieren und die Entwicklung zu beschleunigen,  
+wobei alle Logik und Struktur vollständig von mir verstanden und implementiert wurden.
 
 ---
 
-## 📝 License
+## 📂 Projektstatus
 
-MIT – Free to use and modify.
+🟢 Aktiv — Ich arbeite weiter daran, unter anderem an Funktionen wie Übersetzung, Fortschrittsverfolgung und mobiler Optimierung.
+
+---
+
+## 📩 Kontakt
+
+##  E-Mail: [amarkouchi5@gmail.com](mailto:amarkouchi5@gmail.com)
+
+---
+
+## 📝 Lizenz
+
+MIT – Frei zur Nutzung und Anpassung.
