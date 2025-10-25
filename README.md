@@ -1,4 +1,4 @@
-<h1 align="center">📊 Deutsche Verben Meister</h1>
+<h1 align="center">📑 Deutsche Verben Meister</h1>
 <p align="center">
   <a href="https://amarko-med.github.io/DeutscheVerbenMeister/">
     <img src="https://img.shields.io/badge/Live%20Preview-Hier%20klicken-purple?style=for-the-badge">
@@ -67,12 +67,13 @@ Es zeigt meinen Fortschritt und meine wachsende Erfahrung in der Webentwicklung.
 
 <h2>📁 Projektstruktur</h2>
 <pre>
-📦 DeutscheVerbenMeister/
-├── index.html         → Seite
-├── styles.css         → Seiten-Stile
-├── app.js             → Globale logik
-├── verbs_by_day.json  → List des verben
-└── images/            → Screenshots
+📖 DeutscheVerbenMeister/
+├── index.html         → Hauptseite, enthält HTML-Struktur
+├── styles.css         → CSS für Layout, Farben, Schriftarten
+├── app.js             → JavaScript für Logik, z.B. Übungsmodus, Auswahl, Korrektur
+├── verbs_by_day.json  → JSON-Datei mit allen Verben nach Tagen (für dynamisches Laden)
+└── images/            → Screenshots, Icons oder andere Bilder
+
 </pre>---
 
 ## 📩 Kontakt
