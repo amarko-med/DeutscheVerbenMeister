@@ -31,7 +31,7 @@ Das Tool korrigiert die Antworten der Nutzer und stärkt das Verständnis durch 
 
 ---
 
-## 🧠 Funktionen
+<h2>✨ Funktionen</h2>
 
 * 🗓️ 6-Tage-Übungsstruktur zur besseren Lernorganisation  
 * ✅ Interaktive Verbenauswahl und Feedback  
@@ -44,10 +44,8 @@ Das Tool korrigiert die Antworten der Nutzer und stärkt das Verständnis durch 
 
 ---
 
-## 🚀 Live-Demo
-
-Jetzt ausprobieren:  
-👉 **[https://amarko-med.github.io/DeutscheVerbenMeister/](https://amarko-med.github.io/DeutscheVerbenMeister/)**
+<h2>🔗 Live-Vorschau</h2>
+<p> 👉 <a href="https://amarko-med.github.io/DeutscheVerbenMeister/" target="_blank"><strong>Hier klicken, um es live auszuprobieren</strong></a> </p>
 
 ---
 
@@ -67,18 +65,15 @@ Es zeigt meinen Fortschritt und meine wachsende Erfahrung in der Webentwicklung.
 
 ---
 
-## 🤖 KI-Unterstützung
-
-Einige Teile dieses Projekts wurden mit Hilfe von **KI** entwickelt, um den Code zu optimieren und die Entwicklung zu beschleunigen,  
-wobei alle Logik und Struktur vollständig von mir verstanden und implementiert wurden.
-
----
-
-## 📂 Projektstatus
-
-🟢 Aktiv — Ich arbeite weiter daran, unter anderem an Funktionen wie Übersetzung, Fortschrittsverfolgung und mobiler Optimierung.
-
----
+<h2>📁 Projektstruktur</h2>
+<pre>
+📦 DeutscheVerbenMeister/
+├── index.html         → Seite
+├── styles.css         → Seiten-Stile
+├── app.js             → Globale logik
+├── verbs_by_day.json  → List des verben
+└── images/            → Screenshots
+</pre>---
 
 ## 📩 Kontakt
 
