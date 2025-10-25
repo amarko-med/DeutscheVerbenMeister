@@ -51,10 +51,10 @@ Das Tool korrigiert die Antworten der Nutzer und stärkt das Verständnis durch 
 
 ## 🛠️ Erstellt mit
 
-* HTML  
-* CSS  
-* JavaScript
-
+* HTML5 – Seitenstruktur
+* CSS3 – Styling, Layouts und responsives Design
+* JavaScript (Vanilla) – Dashboard-Logik, Formulare und Interaktivität
+  
 ---
 
 ## 📚 Lernzweck
