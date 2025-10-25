@@ -74,7 +74,9 @@ Es zeigt meinen Fortschritt und meine wachsende Erfahrung in der Webentwicklung.
 ├── verbs_by_day.json  → JSON-Datei mit allen Verben nach Tagen (für dynamisches Laden)
 └── images/            → Screenshots, Icons oder andere Bilder
 
-</pre>---
+</pre>
+
+---
 
 ## 📩 Kontakt
 
