@@ -72,7 +72,7 @@ Es zeigt meinen Fortschritt und meine wachsende Erfahrung in der Webentwicklung.
 ├── styles.css         → CSS für Layout, Farben, Schriftarten
 ├── app.js             → JavaScript für Logik, z.B. Übungsmodus, Auswahl, Korrektur
 ├── verbs_by_day.json  → JSON-Datei mit allen Verben nach Tagen (für dynamisches Laden)
-└── images/            → Screenshots, Icons oder andere Bilder
+└── images/            → Screenshots
 
 </pre>
 
