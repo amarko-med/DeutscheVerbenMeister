@@ -1,7 +1,17 @@
-# 🇩🇪 Deutsche Verben Meister
+<h1 align="center">📊 Deutsche Verben Meister</h1>
+<p align="center">
+  <a href="https://amarko-med.github.io/DeutscheVerbenMeister/">
+    <img src="https://img.shields.io/badge/Live%20Preview-Hier%20klicken-purple?style=for-the-badge">
+  </a>
+  <a href="https://github.com/amarko-med">
+    <img src="https://img.shields.io/badge/Von-MED%20Amarko-blueviolet?style=for-the-badge">
+  </a>
+</p>
 
-*Deutsche Verben Meister* ist eine deutsche Verbtrainer-App, die Lernenden hilft, **Verbstrukturen (Akkusativ/Dativ)** über einen sechstägigen Lernplan zu üben.  
+<p align="center">
+  Eine deutsche Verbtrainer-App, die Lernenden hilft, **Verbstrukturen (Akkusativ/Dativ)** über einen sechstägigen Lernplan zu üben.  
 Das Tool korrigiert die Antworten der Nutzer und stärkt das Verständnis durch Wiederholung und Feedback.
+</p>
 
 ---
 
